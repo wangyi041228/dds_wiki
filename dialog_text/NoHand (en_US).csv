@@ -1,0 +1,96 @@
+id,text,file,node,lineNumber
+NoHand-tcstart-0,"""Hiiiii! It's me. Your favorite. The Concierge. Well done on your mission hun!"" ٩(◕‿◕)۶",NoHand,tcstart,6
+NoHand-tcstart-1,"""Thanks!""",NoHand,tcstart,8
+NoHand-tcstart-2,"""How did you get into my apartment??""",NoHand,tcstart,9
+NoHand-tcstart-3,"""...""",NoHand,tcstart,10
+NoHand-tcthanks-4,"""Of course hun. You did such a good job after all. I decided to pop in, check on how things were going, clarify a thing or two.""",NoHand,tcthanks,17
+NoHand-tcthanks-5,"""Things are going good!""",NoHand,tcthanks,19
+NoHand-tcthanks-6,"""Things are going not so good...""",NoHand,tcthanks,20
+NoHand-tcthanks-7,"""What did you want to clarify?""",NoHand,tcthanks,21
+NoHand-tchowgetin-8,"""You gave me the key last time we spoke, don't you remember?""",NoHand,tchowgetin,28
+NoHand-tchowgetin-9,"""I definitely never gave you a key...""",NoHand,tchowgetin,30
+NoHand-tchowgetin-10,"""My apartment needs a key? I don't have one.""",NoHand,tchowgetin,31
+NoHand-tchowgetin-11,"""That sounds like something I might have done...""",NoHand,tchowgetin,32
+NoHand-tcthingsgoinggood-12,"""Going good? That's great to hear hun. I bet we can make things go even gooder!""",NoHand,tcthingsgoinggood,39
+NoHand-tcthingsgoinggood-13,"""How can we do that??""",NoHand,tcthingsgoinggood,41
+NoHand-tcnotsogood-14,"""Not so good? What's bothering you hun?""",NoHand,tcnotsogood,48
+NoHand-tcnotsogood-15,"""Paying off my debt is impossible.""",NoHand,tcnotsogood,50
+NoHand-tcnotsogood-16,"""These missions are way too hard.""",NoHand,tcnotsogood,51
+NoHand-tcnotsogood-17,"""I am lost and confused.""",NoHand,tcnotsogood,52
+NoHand-tcnokey-18,"""Perhaps you're not remembering correctly, all those resurrections can mess with your head you know. But that's alright, even if we lose some memories along the way, we're bound to make lots of new ones! Regardless, I'm here now. In addition to congratulating you on your last mission, I wanted to clear something up with you.""",NoHand,tcnokey,59
+NoHand-tcnokey-19,"""What is it?""",NoHand,tcnokey,61
+NoHand-tchasakey-20,"""Well obviously YOU don't need a key hun, the apartment lets you in based off biometrics. ANYWAY, I'm just here to congratulate you on the success of your last mission, and get something cleared up.""",NoHand,tchasakey,68
+NoHand-tchasakey-21,"""What needs clearing up?""",NoHand,tchasakey,70
+NoHand-tcmighthavedone-22,"""Right? Doesn't it? Look don't think too hard about it hun. I need that pretty little head of yours focused on the mission!"" (.❛ ᴗ ❛.) ""I'm just here to congratulate you, and clear a little something up with you.""",NoHand,tcmighthavedone,77
+NoHand-tcmighthavedone-23,"""What is it?""",NoHand,tcmighthavedone,79
+NoHand-tcclassify-24,"""The top brass are trying to decide on a *role* for you within the company. I'm impressed with your performance to say the least, but one of our top handlers, codenamed 'The Hand,' has felt neglected. They sent you some optional missions via email, but you haven't kept up with them. These missions were completely optional so you're not in any sort of trouble. But I wanted to ask, why have you not completed these missions hun?""",NoHand,tcclassify,86
+NoHand-tcclassify-25,"""There was no reward for those missions. Why do them when I got debts to pay?""",NoHand,tcclassify,88
+NoHand-tcclassify-26,"""The violent nature of those missions put me off.""",NoHand,tcclassify,89
+NoHand-tcclassify-27,"""I dislike how The Hand talks to me.""",NoHand,tcclassify,90
+NoHand-tcclassify-28,"""Just let it slip, I'll get around to them.""",NoHand,tcclassify,91
+NoHand-tcsilent-29,"""Oh? Feeling quiet today hun? You were very talkative the last time we met face to face. No matter, I'll fill you in.""",NoHand,tcsilent,98
+NoHand-tcsilent-30,"""...""",NoHand,tcsilent,100
+NoHand-tcsilent-31,"""...""",NoHand,tcsilent,101
+NoHand-tcsilent-32,"""...""",NoHand,tcsilent,102
+NoHand-tcsilent-33,"""...""",NoHand,tcsilent,103
+NoHand-tcsilent2-34,"""Your last mission was tremendously helpful for us. Fake emails are dangerous to the integrity of our operations, so thank you for putting a stop to that. We'll be increasing your pay for future missions to show our thanks. There's another matter regarding a top handler of ours, codename 'The Hand.' They sent out some optional assignments to you via email a while back. We noticed that you haven't been responding well to these, so we've told the Hand to stop enlisting your services. I'll send you optional missions instead. Congrats again on your last assignment hun, I'll see myself out now.""",NoHand,tcsilent2,110
+NoHand-tcsilent2-35,Goodbye!,NoHand,tcsilent2,112
+NoHand-tcgoodbye-36,Empty Text,NoHand,tcgoodbye,119
+NoHand-tcgotdebtnopay-37,"""The Hand is extremely singey with rewards hun. Good thing I'm not!"" <(￣︶￣)> ""I'll send you some optional missions of my own, with lots and lots of rewards! That's all I needed. Good luck in the field hun, I'll be going now.""",NoHand,tcgotdebtnopay,126
+NoHand-tcgotdebtnopay-38,Goodbye!,NoHand,tcgotdebtnopay,128
+NoHand-tcgotdebtnopay-39,"""Wait uh...I actually had some questions.""",NoHand,tcgotdebtnopay,129
+NoHand-tcviolent-40,"""I understand what you mean Hun. Violence in our line of work is never completely avoidable, but it feels so...dirty...going into a job with the objective of killing everyone right?"" (×﹏×) ""You can take additional optional missions from me moving forward. I'll offer you missions without as much violence, and lots more rewards! Take care hun, I have work to get back to.""",NoHand,tcviolent,136
+NoHand-tcviolent-41,Goodbye!,NoHand,tcviolent,138
+NoHand-tctalkstome-42,"""The Hand can treat agents a little...harshly shall we stay. Seems like that style of handling isn't a good fit for you. Tell you what hun, I'll tell The Hand to stop bothering you, and you can take some optional missions from me instead!"" (o^▽^o)	""I give way better rewards and treat my agents much gentler than the others. I'll let you get back to work. Stay safe out there hun!""",NoHand,tctalkstome,145
+NoHand-tctalkstome-43,Goodbye!,NoHand,tctalkstome,147
+NoHand-tctoodifficult-44,"""I see. Would you like to keep trying to accomplish these missions for The Hand? Or would you rather take some additional optional missions from myself? The choice is yours but between the two of us I give waaaay better rewards."" ( ˘⌣˘)♡(˘⌣˘ )",NoHand,tctoodifficult,154
+NoHand-tctoodifficult-45,"""I would like optional assignments from The Hand.""",NoHand,tctoodifficult,156
+NoHand-tctoodifficult-46,"""I would like optional assignments from you instead!""",NoHand,tctoodifficult,157
+NoHand-tckeepthehand-47,"""Interesting...are you sure? Why do you want to keep working with The Hand?""",NoHand,tckeepthehand,164
+NoHand-tckeepthehand-48,"""I was hoping for a reward by the end.""",NoHand,tckeepthehand,166
+NoHand-tckeepthehand-49,"""I enjoy the violent nature of the missions they give me.""",NoHand,tckeepthehand,167
+NoHand-tckeepthehand-50,"""I feel threatened, I don't want to anger The Hand.""",NoHand,tckeepthehand,168
+NoHand-tckeepthehand-51,"""I liked the way The Hand treated me. I completed missions hoping they would continue to treat me like garbage.""",NoHand,tckeepthehand,169
+NoHand-tcworkwithyou-52,"""Excellent! I'm sure I'll email you some optional missions with lots of the rewards good little agents deserve. I think I have a better idea of how we can accommodate you here hun. I have matters to attend to so I'll be going now. Good luck out there!""",NoHand,tcworkwithyou,176
+NoHand-tcworkwithyou-53,Goodbye!,NoHand,tcworkwithyou,178
+NoHand-tcendreward-54,"""Sorry dear, I don't think The Hand would have rewarded you with what you wanted by the end. Are you sure you want to work with them some more?""",NoHand,tcendreward,185
+NoHand-tcendreward-55,"""I'm sure. Have The Hand give me more missions.""",NoHand,tcendreward,187
+NoHand-tcendreward-56,"""Actually no, I would rather take optional missions from you.""",NoHand,tcendreward,188
+NoHand-tcenjoy-57,"""Did you really? Hm...I had pegged you as more of a 'good boy' than a 'rabid dog.' Perhaps I misjudged you.""",NoHand,tcenjoy,195
+NoHand-tcenjoy-58,"""Can't I be both?""",NoHand,tcenjoy,197
+NoHand-tcenjoy-59,"""I've changed since we last spoke.""",NoHand,tcenjoy,198
+NoHand-tcthreat-60,"""Oh no! Don't worry hun, I won't let The Hand touch you. We don't want to create that sort of hostile work environment for our agents. I'll tell The Hand to stop sending you missions. You'll get some extra jobs from me instead, with lots of reward money!"" (≧▽≦)  ""That's all I needed to talk about hun. Good luck out in the field. I'll see myself out.""",NoHand,tcthreat,205
+NoHand-tcthreat-61,Goodbye!,NoHand,tcthreat,207
+NoHand-tctreatedme-62,"""Oh my! How...unusual."" (ʘ‿ʘ) ""In that case we have the perfect *role* for you within the company. It might have been unfair for me to say The Hand was working you without a reward. Working for The Hand is a reward in and of itself hm?"" ♡( ◡‿◡ )",NoHand,tctreatedme,214
+NoHand-tctreatedme-63,"""Yisss."" (snake voice)",NoHand,tctreatedme,216
+NoHand-tctreatedme-64,"""Can I meet The Hand sometime?""",NoHand,tctreatedme,217
+NoHand-tclockinhand-65,"""Alright hun, if that's what you want. I'll tell The Hand to throw you some more missions in addition to those you'll get from me. Get back to work now, I'll see myself out.""",NoHand,tclockinhand,224
+NoHand-tclockinhand-66,Goodbye!,NoHand,tclockinhand,226
+NoHand-tclockinhand-67,"""Wait uh...I actually had some questions.""",NoHand,tclockinhand,227
+NoHand-tclockcons-68,"""Good, I think this will work out the best Hun. Doing these extra tasks for me is sure to pay off your debt in no time! That's all I needed to talk about. Good luck in the field hun, I'll see myself out.""",NoHand,tclockcons,234
+NoHand-tclockcons-69,Goodbye!,NoHand,tclockcons,236
+NoHand-tclockcons-70,"""Wait uh...I actually had some questions.""",NoHand,tclockcons,237
+NoHand-tcbeboth-71,"""Of course you can be both sweaty. In addition to the usual 'good boy' missions you take from me, you can take some optional 'rabid dog' missions from The Hand. Get back to work now, hun. I'll let myself out.""",NoHand,tcbeboth,244
+NoHand-tcbeboth-72,Goodbye!,NoHand,tcbeboth,246
+NoHand-tcbeboth-73,"""Wait uh...I actually had some questions.""",NoHand,tcbeboth,247
+NoHand-tcivechanged-74,"""You definitely have. We can work with change though. I'll tell The Hand you're ready for more missions. You may complete those in addition the tasks I give you. Get back to work now. I'll be in touch.""",NoHand,tcivechanged,254
+NoHand-tcivechanged-75,Goodbye!,NoHand,tcivechanged,256
+NoHand-tcquestions-76,"""Questions? About what? I'm in a hurry hun so please be quick.""",NoHand,tcquestions,263
+NoHand-tcquestions-77,"""What's the point of all these missions? Are we working towards something here?""",NoHand,tcquestions,265
+NoHand-tcquestions-78,"""So...why does The Concierge give out missions? Shouldn't you be handling the front desk or something?""",NoHand,tcquestions,266
+NoHand-tcyis-79,"""You seem enthusiastic. That's good, we like to see enthusiasm. I'm sure The Hand would LOVE giving you more missions, I bet they're licking their lips to the prospect at this very moment. In fact...I'm sure they are. Get back to work. I'll tell The Hand they can send you more optional missions. I'll have some more for you as well of course.""",NoHand,tcyis,273
+NoHand-tcyis-80,Goodbye!,NoHand,tcyis,275
+NoHand-tcyis-81,"""Wait uh...I actually had some questions.""",NoHand,tcyis,276
+NoHand-tcmeetthehand-82,"""I'll let The Hand know you're ready for more missions. I'm sure if you complete enough of them, they will to grace you with their presence. Get back to work now. I'll have some new missions for you too.""",NoHand,tcmeetthehand,283
+NoHand-tcmeetthehand-83,Goodbye!,NoHand,tcmeetthehand,285
+NoHand-tcmeetthehand-84,"""Wait uh...I actually had some questions.""",NoHand,tcmeetthehand,286
+NoHand-tcdebtimpossible-85,"""Oh the debt? Don't stress too much about that. The longer you work with us the more money you'll pull in. It's mathematically inevitable that you'll pay off your debt here. Speaking of making more money, I wanted to run something by you.""",NoHand,tcdebtimpossible,293
+NoHand-tcdebtimpossible-86,"""What is it?""",NoHand,tcdebtimpossible,295
+NoHand-tctoohard-87,"""Our work here is hard, there's no denying that. You should try switching up your style a bit hun. I do lot of hacking in my work personally, maybe you could experiment more with that? It's also possible you're underusing your abilities, lots of agents have that issue. Speaking of switching things up, I wanted to run something by you.""",NoHand,tctoohard,302
+NoHand-tctoohard-88,"""What is it?""",NoHand,tctoohard,304
+NoHand-tclostandconfused-89,"""Don't worry yourself with what's happening here. We want to keep our agents alienated from the bigger picture so they can focus on their work. You're taking missions from us to pay off your debt, that's all that matters right now. Speaking of missions, I wanted to run something by you.""",NoHand,tclostandconfused,311
+NoHand-tclostandconfused-90,"""What is it?""",NoHand,tclostandconfused,313
+NoHand-tcthepoint-91,"""Eh...sorry to disappoint you hun. There's nothing more to this. You're just a cog in the machine, taking care of some data recovery tasks to keep the corporation running a *little* more smoothly. I have to go now, keep things running smoothly on my end. keep up the good work.""",NoHand,tcthepoint,320
+NoHand-tcthepoint-92,Goodbye!,NoHand,tcthepoint,322
+NoHand-tcwhyconcierge-93,"""Sweaty...'The Concierge' is just my codename. I occupy many *roles* here at the company in addition to my work at the front desk. Speaking of which, I need to attend to my duties. Keep up the good work hun.""",NoHand,tcwhyconcierge,329
+NoHand-tcwhyconcierge-94,Goodbye!,NoHand,tcwhyconcierge,331

@@ -1,0 +1,37 @@
+id,text,file,node,lineNumber
+DogApartment-dogastart-0,"""Nice place you have here.""",DogApartment,dogastart,6
+DogApartment-dogastart-1,"""Thanks!""",DogApartment,dogastart,8
+DogApartment-dogastart-2,"""Oh great what now?""",DogApartment,dogastart,9
+DogApartment-dogastart-3,"""Get the hell out.""",DogApartment,dogastart,10
+DogApartment-dogastart-4,"""...""",DogApartment,dogastart,11
+DogApartment-dogthanks-5,"""They set you up real nice eh. Not so sure about the color scheme though. Could use a little more...red. At least in my opinion.""",DogApartment,dogthanks,18
+DogApartment-dogthanks-6,"""Red huh? That's a very...specific color.""",DogApartment,dogthanks,20
+DogApartment-dogthanks-7,"""I don't think it needs any more red.""",DogApartment,dogthanks,21
+DogApartment-dogthanks-8,"""Agreed.""",DogApartment,dogthanks,22
+DogApartment-dogawhatnow-9,"""Did you forget? You have a doctor's appointment. I'm here to pick you up.""",DogApartment,dogawhatnow,29
+DogApartment-dogawhatnow-10,"""I'm not feeling unwell tho."" (•ิ_•ิ)?",DogApartment,dogawhatnow,31
+DogApartment-dogawhatnow-11,"""I can go by myself...""",DogApartment,dogawhatnow,32
+DogApartment-dogawhatnow-12,"""Great! Let's go.""",DogApartment,dogawhatnow,33
+DogApartment-dogawhatnow-13,"""Go fuck yourself that's not why you're here.""",DogApartment,dogawhatnow,34
+DogApartment-doggetout-14,"""Haha. That's rich. You come into MY home and tell ME to leave? That's not how this works fucko.""",DogApartment,doggetout,41
+DogApartment-doggetout-15,"""Hey, you really need to take a chill pill."" (maybe even 2 pills of chill)",DogApartment,doggetout,43
+DogApartment-doggetout-16,"""How does this work then?""",DogApartment,doggetout,44
+DogApartment-doggetout-17,"""I'm thinking that's exactly how this works.""",DogApartment,doggetout,45
+DogApartment-dogasilent-18,"""Nothing to say? Haha. Wow you really are pathetic. Guess I can't compete with you on that front. Whatever, do me a favor and close your eyes yeah? It's time to end this.""",DogApartment,dogasilent,52
+DogApartment-dogasilent-19,Goodbye!,DogApartment,dogasilent,54
+DogApartment-doggobymyself-20,"""Can you? I don't know if we can trust you to handle this on your own. Why don't we have have a little race hm? Let's see who can get you to the doctor first.""",DogApartment,doggobymyself,61
+DogApartment-doggobymyself-21,"""Wait what?""",DogApartment,doggobymyself,63
+DogApartment-dognotunwell-22,"""Haha. HAHAHA. Yeah about that...""",DogApartment,dognotunwell,70
+DogApartment-dognotunwell-23,Goodbye!,DogApartment,dognotunwell,72
+DogApartment-doggreatletsgo-24,"""It'll be a quick trip. Let me just make sure you're up to date on your shots first...""",DogApartment,doggreatletsgo,79
+DogApartment-doggreatletsgo-25,"""Wait what?""",DogApartment,doggreatletsgo,81
+DogApartment-dogredhuh-26,"""Not really. I do have a particular shade in mind though.""",DogApartment,dogredhuh,95
+DogApartment-dogredhuh-27,Goodbye!,DogApartment,dogredhuh,97
+DogApartment-dognomorered-28,"""I'm not talking about recoloring the whole apartment. I think 5 liters will be enough.""",DogApartment,dognomorered,104
+DogApartment-dognomorered-29,"""Goodbye!""",DogApartment,dognomorered,106
+DogApartment-dogachillpill-30,"""Oh you like doing pills too? Come here I got some pills for you.""",DogApartment,dogachillpill,113
+DogApartment-dogachillpill-31,Goodbye!,DogApartment,dogachillpill,115
+DogApartment-dogahowwork-32,"""Allow me to provide a demonstration.""",DogApartment,dogahowwork,122
+DogApartment-dogahowwork-33,Goodbye!,DogApartment,dogahowwork,124
+DogApartment-dogexactlyhowworks-34,"""Let's put your little theory to the test them hm?""",DogApartment,dogexactlyhowworks,131
+DogApartment-dogexactlyhowworks-35,Goodbye!,DogApartment,dogexactlyhowworks,134

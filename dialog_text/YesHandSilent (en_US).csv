@@ -1,0 +1,14 @@
+id,text,file,node,lineNumber
+YesHandSilent-tcstart-0,"""Heya hun, I decided to stop by and fill you in on some things. How have you been?""",YesHandSilent,tcstart,6
+YesHandSilent-tcstart-1,"""...""",YesHandSilent,tcstart,8
+YesHandSilent-tcstart-2,"""...""",YesHandSilent,tcstart,9
+YesHandSilent-tcstart-3,"""...""",YesHandSilent,tcstart,10
+YesHandSilent-tcstart-4,"""...""",YesHandSilent,tcstart,11
+YesHandSilent-tcsilent0-5,"""Oh right...you're one of our quiet agents. Good at obeying orders, not so good a talking.""",YesHandSilent,tcsilent0,18
+YesHandSilent-tcsilent0-6,"""...""",YesHandSilent,tcsilent0,20
+YesHandSilent-tcsilent0-7,"""...""",YesHandSilent,tcsilent0,21
+YesHandSilent-tcsilent0-8,"""...""",YesHandSilent,tcsilent0,22
+YesHandSilent-tcsilent0-9,"""...""",YesHandSilent,tcsilent0,23
+YesHandSilent-silent1-10,"""You've completed several missions for one of our top handlers, codename: 'The Hand.' I've asked them to send you more optional tasks. They may be a bully, but you seem to enjoy the work. That's all hun. Get back to work.""",YesHandSilent,silent1,30
+YesHandSilent-silent1-11,Goodbye!,YesHandSilent,silent1,32
+YesHandSilent-tcgoodbye-12,Empty Text,YesHandSilent,tcgoodbye,39

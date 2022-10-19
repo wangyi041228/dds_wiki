@@ -1,0 +1,95 @@
+id,text,file,node,lineNumber
+flybynightreduced-fhowdoyoulikeit-0,"""Autopilot takes care of things for the most part. It can get a little sweaty up there when you're under attack, but usually it's nbd. Definitely easier than working in the field as an agent. I just kick back and listen to podcasts for the most part.""",flybynightreduced,fhowdoyoulikeit,6
+flybynightreduced-fhowdoyoulikeit-1,"""Being an agent is hard.""",flybynightreduced,fhowdoyoulikeit,8
+flybynightreduced-fhowdoyoulikeit-2,"""Being an agent is pretty easy actually.""",flybynightreduced,fhowdoyoulikeit,9
+flybynightreduced-fpilot-3,"""You could request a transfer to the pilot program but I doubt you'll get in. The corporation has a way of putting people where they belong. Are you having trouble as an agent?""",flybynightreduced,fpilot,16
+flybynightreduced-fpilot-4,"""Being an agent is hard.""",flybynightreduced,fpilot,18
+flybynightreduced-fpilot-5,"""Being an agent is pretty easy actually.""",flybynightreduced,fpilot,19
+flybynightreduced-plame-6,"""Well good thing YOU don't have to be a pilot then! You can run around in circles typing on your little keyboard, poppin' off your little pea shooter like some crazy genocide artist. All while I sit in my helicopter a hundred miles above you, relaxing, enjoying my boxed lunch. Yeah it's not as ~cool~ or ~exciting~ but it has its perks.""",flybynightreduced,plame,26
+flybynightreduced-plame-7,"""That...does sound pretty nice. Boxed lunch and all that...""",flybynightreduced,plame,28
+flybynightreduced-plame-8,"""You sound a little jealous."" (¬‿¬)",flybynightreduced,plame,29
+flybynightreduced-fjustcomputers-9,"""Advice I hear is to learn both. Might make things *slightly* easier when working in the field. Don't be afraid to whip out your piece now and then. Speaking of which, you better get going. Some poor pilot is probably waiting to pick you up.""",flybynightreduced,fjustcomputers,36
+flybynightreduced-fblastin-10,"""Might wanna study up on putting those keys to work. Hacking can give you quite the edge I'm told, even if you're only dipping your toes in. I meant to ask, would you be interested in doing a mission for me?.""",flybynightreduced,fblastin,43
+flybynightreduced-fblastin-11,"""What kind of mission?""",flybynightreduced,fblastin,45
+flybynightreduced-fboth-12,"""You're probably on the right track then. The best agents here are typically proficient in both hacking and gunplay. I've been meaning to ask, would you be interested in doing a mission for me?""",flybynightreduced,fboth,52
+flybynightreduced-fboth-13,"""What kind of mission?""",flybynightreduced,fboth,54
+flybynightreduced-pboxedlunch-14,"""They're good too! My last one had rice ball with a smiley face on it. Feels like an actual person is putting them together, with love and care and all that. Not like the freeze dried stuff I got at my last job.""",flybynightreduced,pboxedlunch,61
+flybynightreduced-pboxedlunch-15,"""No fair! I want a boxed lunch too!""",flybynightreduced,pboxedlunch,63
+flybynightreduced-pboxedlunch-16,"""Boxed lunch is cool, but being a field agent comes with its own perks."" (⌐▨_▨)",flybynightreduced,pboxedlunch,64
+flybynightreduced-pjealous-17,"""Nope! No chance in hell I wanna do what you lunatics are stuck with! I'd have to be a ~crazy~ person to want that! You can't tempt me!!!! Since you're an agent, I could lowkey use ur help with something tho.""",flybynightreduced,pjealous,71
+flybynightreduced-pjealous-18,"""Help with what?""",flybynightreduced,pjealous,73
+flybynightreduced-fbnstart-19,"""Here for a smoke break or something?""",flybynightreduced,fbnstart,80
+flybynightreduced-fbnstart-20,"""Nah, just looking around.""",flybynightreduced,fbnstart,82
+flybynightreduced-fbnstart-21,"""Yeah, can I borrow a ciggy?""",flybynightreduced,fbnstart,83
+flybynightreduced-fbnstart-22,"""...""",flybynightreduced,fbnstart,84
+flybynightreduced-fbnlooking-23,"""I don't mind the company. You're welcome to chill here.""",flybynightreduced,fbnlooking,91
+flybynightreduced-fbnlooking-24,"""Are you an agent like me?""",flybynightreduced,fbnlooking,93
+flybynightreduced-fbnlooking-25,"""What are you doing out here?""",flybynightreduced,fbnlooking,94
+flybynightreduced-fbnlooking-26,"""No I was just taking a look. See you around.""",flybynightreduced,fbnlooking,95
+flybynightreduced-fbnborrow-27,"""What? No! How rude are you anyway? Someone pulls out a cig and you think you're entitled to one?""",flybynightreduced,fbnborrow,102
+flybynightreduced-fbnborrow-28,"""I'm sorry.""",flybynightreduced,fbnborrow,104
+flybynightreduced-fbnborrow-29,"""Chill out it's just a ciggy wiggy.""",flybynightreduced,fbnborrow,105
+flybynightreduced-fbnsilent-30,"""Get out of here. Weirdo.""",flybynightreduced,fbnsilent,112
+flybynightreduced-fbnsilent-31,Goodbye!,flybynightreduced,fbnsilent,114
+flybynightreduced-fbnsorry-32,"""Like, If you see someone pulling money out of an ATM, do you walk over and say 'hey! gimme some of that money!' ??? Seriously! What's wrong with you?""",flybynightreduced,fbnsorry,128
+flybynightreduced-fbnsorry-33,"""I'M SORRY"" (ಥ﹏ಥ)",flybynightreduced,fbnsorry,130
+flybynightreduced-fbnjustacig-34,"""Get the hell out of here!""",flybynightreduced,fbnjustacig,137
+flybynightreduced-fbnjustacig-35,Goodbye!,flybynightreduced,fbnjustacig,139
+flybynightreduced-fbnrealsorry-36,"""I'm not even here for a smoke break. It's a filthy habit. You should quit. Addiction! Now dry your eyes. It's wet enough out here already. Anything else you wanted?""",flybynightreduced,fbnrealsorry,146
+flybynightreduced-fbnrealsorry-37,"""Are you an agent like me?""",flybynightreduced,fbnrealsorry,149
+flybynightreduced-fbnrealsorry-38,"""What are you doing out here?""",flybynightreduced,fbnrealsorry,150
+flybynightreduced-fbnrealsorry-39,"""No I was just taking a look. See you around.""",flybynightreduced,fbnrealsorry,151
+flybynightreduced-fbnagentlikeme-40,"""Not quite. I'm a pilot. I deliver agents to their missions and transport cargo.""",flybynightreduced,fbnagentlikeme,158
+flybynightreduced-fbnagentlikeme-41,"""You're a pilot? That sounds like fun.""",flybynightreduced,fbnagentlikeme,160
+flybynightreduced-fbnagentlikeme-42,"""I always wanted to be a pilot...""",flybynightreduced,fbnagentlikeme,161
+flybynightreduced-fbnagentlikeme-43,"""Ha! Lame.""",flybynightreduced,fbnagentlikeme,162
+flybynightreduced-fbnwhatdoingouthere-44,"""Just taking a moment to clear my head, empty places like this are perfect for that. A little palette cleanser between my responsibilities. Usually it's just the rain keeping me company, but sometimes I even meet someone new.""",flybynightreduced,fbnwhatdoingouthere,169
+flybynightreduced-fbnlater-45,"""Hey before you leave, maybe you could help me with something.""",flybynightreduced,fbnlater,176
+flybynightreduced-fbnlater-46,"""Help with what?""",flybynightreduced,fbnlater,178
+flybynightreduced-fbnmissionoffer-47,"""I kinda messed up on a previous assignment. My helicopter took some fire from the ground and I dropped my package. I need an agent to help me get it back. I can pay you of course.""",flybynightreduced,fbnmissionoffer,185
+flybynightreduced-fbnmissionoffer-48,"""I'm down to lend a hand.""",flybynightreduced,fbnmissionoffer,187
+flybynightreduced-fbnmissionoffer-49,"""Not sure when I'll have time...""",flybynightreduced,fbnmissionoffer,188
+flybynightreduced-fbnmissionoffer-50,"""Seems kinda sketchy. Is this one of those 'off the books' kinda missions?""",flybynightreduced,fbnmissionoffer,189
+flybynightreduced-fbndowntolendahand-51,"$flybynightmission ""Cool, I'll email you the details. See ya.""",flybynightreduced,fbndowntolendahand,196
+flybynightreduced-fbndowntolendahand-52,Goodbye!,flybynightreduced,fbndowntolendahand,198
+flybynightreduced-fbnotsureiftime-53,"$flybynightmission ""There's no rush. I'll just shoot you an email with the deets. Feel free to hmu whenever you have time.""",flybynightreduced,fbnotsureiftime,205
+flybynightreduced-fbnotsureiftime-54,Goodbye!,flybynightreduced,fbnotsureiftime,207
+flybynightreduced-fbnoffthebooks-55,"""I mean...kinda. But it's just to fix a mistake I made on something sanctioned. No need to go through all that paperwork right? One of the newcomers in management even assured me it was fine.""",flybynightreduced,fbnoffthebooks,214
+flybynightreduced-fbnoffthebooks-56,"""Seems legit. I'll help you out.""",flybynightreduced,fbnoffthebooks,216
+flybynightreduced-fbnoffthebooks-57,"""Sorry this is way too suspicious. I'm gonna pass.""",flybynightreduced,fbnoffthebooks,217
+flybynightreduced-fbngonnapass-58,"""Damn. Guess I'll have to find someone else. Good luck on your next mission. Don't wanna keep your helicopter waiting.""",flybynightreduced,fbngonnapass,224
+flybynightreduced-fbngonnapass-59,Goodbye!,flybynightreduced,fbngonnapass,226
+flybynightreduced-fbnhard-60,"""That's why I don't fuck with it. Are you one of those run & gun type agents? Or do you rely more on hacking?""",flybynightreduced,fbnhard,233
+flybynightreduced-fbnhard-61,"""I mainly push buttons on the computer. Beep boop.""",flybynightreduced,fbnhard,235
+flybynightreduced-fbnhard-62,"""I just start blastin.""",flybynightreduced,fbnhard,236
+flybynightreduced-fbnhard-63,"""I actually rely on like...magic powers and stuff.""",flybynightreduced,fbnhard,237
+flybynightreduced-fbnhard-64,"""Mmmmmm a little bit of this, a little bit of that.""",flybynightreduced,fbnhard,238
+flybynightreduced-fbnnothard-65,"""Sounds like you have skills then. You listen to podcasts and shit while you work? Maybe some lofi hip hop beats?""",flybynightreduced,fbnnothard,245
+flybynightreduced-fbnnothard-66,"""I listen to the lofi stuff.""",flybynightreduced,fbnnothard,247
+flybynightreduced-fbnnothard-67,"""Usually put on a podcast or something.""",flybynightreduced,fbnnothard,248
+flybynightreduced-fbnnothard-68,"""I listen to my own music.""",flybynightreduced,fbnnothard,249
+flybynightreduced-fbnnothard-69,"""Only the rain.""",flybynightreduced,fbnnothard,250
+flybynightreduced-plofi-70,"""Shit's good right? So good at emulating the effects of old recording hardware you can barely tell the difference.""",flybynightreduced,plofi,257
+flybynightreduced-plofi-71,"""Yeah it's great.""",flybynightreduced,plofi,259
+flybynightreduced-ppodcast-72,"""It's rare you get a chance to just talk with others. Hard knowing who you can trust, harder finding a time when your schedules all line up. Podcasts help with that, just listening to others talk.""",flybynightreduced,ppodcast,266
+flybynightreduced-ppodcast-73,"""Yeah.""",flybynightreduced,ppodcast,268
+flybynightreduced-pyeah-74,"""I like your style. Interested in doing a mission with me?""",flybynightreduced,pyeah,275
+flybynightreduced-pyeah-75,"""Tell me about it.""",flybynightreduced,pyeah,277
+flybynightreduced-pownmusic-76,"""Something besides lofi hip hop beats? I listen to a lot of cloud rap, downtempo, hyper pop, glitch hop, vaporwave, witch house, seapunk, you know...mainstream sorta stuff I guess. You listen to that sorta stuff?""",flybynightreduced,pownmusic,284
+flybynightreduced-pownmusic-77,"""Yeah.""",flybynightreduced,pownmusic,286
+flybynightreduced-pownmusic-78,"""Yeah sure."" (Lie)",flybynightreduced,pownmusic,287
+flybynightreduced-prain-79,"""I like the rain too. I hear some agents like to turn the volume on that down, keep things tactical. It really adds to the vibe though, you know?""",flybynightreduced,prain,294
+flybynightreduced-prain-80,"""Yeah.""",flybynightreduced,prain,296
+flybynightreduced-fmagicpower-81,"""Oh...you're one of *those* agents then.""",flybynightreduced,fmagicpower,303
+flybynightreduced-fmagicpower-82,"""What do you mean one of *those* agents???"" (;•_•)",flybynightreduced,fmagicpower,305
+flybynightreduced-fbnthoseagents-83,"*sigh* ""Nothing. I'm sure you're just ~amazing~ at your job. I've been meaning to ask, would you be interested in doing a mission for me?""",flybynightreduced,fbnthoseagents,312
+flybynightreduced-fbnthoseagents-84,"""Tell me about it.""",flybynightreduced,fbnthoseagents,314
+flybynightreduced-fbnwantboxedlunch-85,"$boxedlunchoffer ""Maybe I could get send some boxed lunches your way if you did me a little favor?""",flybynightreduced,fbnwantboxedlunch,321
+flybynightreduced-fbnwantboxedlunch-86,"""What do you need?""",flybynightreduced,fbnwantboxedlunch,323
+flybynightreduced-fbnownperks-87,"""Oh yeah like wut?""",flybynightreduced,fbnownperks,330
+flybynightreduced-fbnownperks-88,"""Uh...""",flybynightreduced,fbnownperks,332
+flybynightreduced-fbnownperks-89,"""Erm.""",flybynightreduced,fbnownperks,333
+flybynightreduced-fbnownperks-90,"""Um.""",flybynightreduced,fbnownperks,334
+flybynightreduced-fbnownperks-91,"""Well I guess I get shot a lot...by guns.""",flybynightreduced,fbnownperks,335
+flybynightreduced-fbnogoodperk-92,"""See! No good perks. Agents are sorely undercompensated despite being super useful for doing just about anything. I could actually use an agent's help myself. I have a mission you see...""",flybynightreduced,fbnogoodperk,342
+flybynightreduced-fbnogoodperk-93,"""Tell me about it this mission.""",flybynightreduced,fbnogoodperk,344

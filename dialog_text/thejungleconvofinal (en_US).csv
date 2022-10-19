@@ -1,0 +1,214 @@
+id,text,file,node,lineNumber
+thejungleconvofinal-jstart-0,"""Hello! Welcome. Can I get you anything? Maybe a bag of low carb chips?""",thejungleconvofinal,jstart,6
+thejungleconvofinal-jstart-1,"""Sure! Chips sound good.""",thejungleconvofinal,jstart,8
+thejungleconvofinal-jstart-2,"""Nah that's okay. I’m not hungry.""",thejungleconvofinal,jstart,9
+thejungleconvofinal-jstart-3,"""...""",thejungleconvofinal,jstart,10
+thejungleconvofinal-jyeschips-4,"""I'll have my assistant bring some. Got a favorite flavor?""",thejungleconvofinal,jyeschips,17
+thejungleconvofinal-jyeschips-5,"""Salt and Vinegar.""",thejungleconvofinal,jyeschips,19
+thejungleconvofinal-jyeschips-6,"""BBQ.""",thejungleconvofinal,jyeschips,20
+thejungleconvofinal-jyeschips-7,"""Sour Cream and Onion.""",thejungleconvofinal,jyeschips,21
+thejungleconvofinal-jyeschips-8,Something else...,thejungleconvofinal,jyeschips,22
+thejungleconvofinal-jnochips-9,"""Perhaps it was unprofessional of me to ask. Anyway, welcome again to my office, we have a lot to talk about.""",thejungleconvofinal,jnochips,29
+thejungleconvofinal-jnochips-10,"""Do we? I'm a little confused about what's going on here.""",thejungleconvofinal,jnochips,31
+thejungleconvofinal-jsilent-11,"""Prefer field work to conversation? No problem. We're taking control of this place and we want you. Step through the elevator beside my desk if you wish to join us. Return to the elevator you came from and we'll let you walk away. It’s only fair after all you’ve done.""",thejungleconvofinal,jsilent,38
+thejungleconvofinal-jsilent-12,Goodbye!,thejungleconvofinal,jsilent,40
+thejungleconvofinal-jflave-13,"$orderedchips ""Mmmm. Sounds good. I think I'll have a bag of those myself. Anyway, welcome again to my office, we have a lot to talk about.""",thejungleconvofinal,jflave,47
+thejungleconvofinal-jflave-14,"""Do we? I'm a little confused about what's going on here.""",thejungleconvofinal,jflave,49
+thejungleconvofinal-jsomething1-15,"""...""",thejungleconvofinal,jsomething1,56
+thejungleconvofinal-jsomething1-16,"""Spicy Jalapeño.""",thejungleconvofinal,jsomething1,58
+thejungleconvofinal-jsomething1-17,"""Salt n' Peppa.""",thejungleconvofinal,jsomething1,59
+thejungleconvofinal-jsomething1-18,"""Cheddar Cheese.""",thejungleconvofinal,jsomething1,60
+thejungleconvofinal-jsomething1-19,Something else...,thejungleconvofinal,jsomething1,61
+thejungleconvofinal-jsomething2-20,"""...""",thejungleconvofinal,jsomething2,68
+thejungleconvofinal-jsomething2-21,"""Sweet Onion.""",thejungleconvofinal,jsomething2,70
+thejungleconvofinal-jsomething2-22,"""Pizza.""",thejungleconvofinal,jsomething2,71
+thejungleconvofinal-jsomething2-23,"""Cool Cool Ranch.""",thejungleconvofinal,jsomething2,72
+thejungleconvofinal-jsomething2-24,Something else...,thejungleconvofinal,jsomething2,73
+thejungleconvofinal-jsomething3-25,"""...""",thejungleconvofinal,jsomething3,80
+thejungleconvofinal-jsomething3-26,"""Honey Dijon.""",thejungleconvofinal,jsomething3,82
+thejungleconvofinal-jsomething3-27,"""Chili Lime.""",thejungleconvofinal,jsomething3,83
+thejungleconvofinal-jsomething3-28,"""Baked Shrimp.""",thejungleconvofinal,jsomething3,84
+thejungleconvofinal-jsomething3-29,Something else...,thejungleconvofinal,jsomething3,85
+thejungleconvofinal-jsomething4-30,"""Any flavor you want, we probably have it.""",thejungleconvofinal,jsomething4,92
+thejungleconvofinal-jsomething4-31,"""Xtreme Nacho.""",thejungleconvofinal,jsomething4,94
+thejungleconvofinal-jsomething4-32,"""Sweet and Spicy.""",thejungleconvofinal,jsomething4,95
+thejungleconvofinal-jsomething4-33,"""Dill Pickle.""",thejungleconvofinal,jsomething4,96
+thejungleconvofinal-jsomething4-34,"""Just regular flavor is fine.""",thejungleconvofinal,jsomething4,97
+thejungleconvofinal-jfconfused-35,"""Like I said, there's a lot to discuss. I should begin by introducing myself. My name is thejungle, and I’m sort of in charge of this organization. I invited you here to recruit you.""",thejungleconvofinal,jfconfused,104
+thejungleconvofinal-jfconfused-36,"""Don't I already work for you?""",thejungleconvofinal,jfconfused,106
+thejungleconvofinal-jfconfused-37,"""Why would you want me?""",thejungleconvofinal,jfconfused,107
+thejungleconvofinal-jfalreadyworkforyou-38,"""You technically work for the corporation, a position you were forced into. But myself and my associates are not the corporation. We are merely using this space to accomplish greater ends.""",thejungleconvofinal,jfalreadyworkforyou,114
+thejungleconvofinal-jfalreadyworkforyou-39,"""So...you people are just squatting here?""",thejungleconvofinal,jfalreadyworkforyou,117
+thejungleconvofinal-jfalreadyworkforyou-40,"""You've all gone rogue then?""",thejungleconvofinal,jfalreadyworkforyou,118
+thejungleconvofinal-jsquatting-41,"""You could say that. But this situation is temporary. Thanks to your efforts, and the efforts of many other agents, we will soon have full control of this facility and its parent corporation.""",thejungleconvofinal,jsquatting,125
+thejungleconvofinal-jsquatting-42,"""Just like that? I doubt the current owners will be happy.""",thejungleconvofinal,jsquatting,127
+thejungleconvofinal-jsquatting-43,"""You used me?""",thejungleconvofinal,jsquatting,128
+thejungleconvofinal-jpreviousowners-44,"""Current owners? This corporation, like all others, is owned by no one. Its ownership has been scattered— not among individuals, but divided among countless other corporations.""",thejungleconvofinal,jpreviousowners,135
+thejungleconvofinal-jpreviousowners-45,"""This doesn't make sense, someone has to own something at some point. Someone has to make the decisions.""",thejungleconvofinal,jpreviousowners,137
+thejungleconvofinal-joldsoul-46,"""You're an old soul, just like myself, so your view of the world is antiquated. I would like to ask you a question, one that should help to broaden your horizons.""",thejungleconvofinal,joldsoul,144
+thejungleconvofinal-joldsoul-47,"""Ask away.""",thejungleconvofinal,joldsoul,146
+thejungleconvofinal-joldsoul-48,"""Lemme hear the question""",thejungleconvofinal,joldsoul,147
+thejungleconvofinal-joldsoul-49,"""Go ahead.""",thejungleconvofinal,joldsoul,148
+thejungleconvofinal-joldsoul-50,"""Lay it on me.""",thejungleconvofinal,joldsoul,149
+thejungleconvofinal-jwhatisthename-51,"""What is the name of this corporation?""",thejungleconvofinal,jwhatisthename,156
+thejungleconvofinal-jwhatisthename-52,"""I have no idea.""",thejungleconvofinal,jwhatisthename,158
+thejungleconvofinal-jwhatisthename-53,"""Does the name really matter?""",thejungleconvofinal,jwhatisthename,159
+thejungleconvofinal-jwhatisthename-54,"""I haven't been paying much attention, is this something I should know?""",thejungleconvofinal,jwhatisthename,160
+thejungleconvofinal-jnoideaname-55,"""I can't tell you the name either. Know why that is?""",thejungleconvofinal,jnoideaname,167
+thejungleconvofinal-jnoideaname-56,"""Because it has no name?""",thejungleconvofinal,jnoideaname,169
+thejungleconvofinal-jnoideaname-57,"""Because the name is kept secret?""",thejungleconvofinal,jnoideaname,170
+thejungleconvofinal-jnoideaname-58,"""Because the name is too long to memorize?""",thejungleconvofinal,jnoideaname,171
+thejungleconvofinal-jnoideaname-59,"""I really have no idea.""",thejungleconvofinal,jnoideaname,172
+thejungleconvofinal-jnamereallymatter-60,"""It's not that important I guess. But isn't it kind of strange that you don't have the answer? Can you guess why?""",thejungleconvofinal,jnamereallymatter,179
+thejungleconvofinal-jnamereallymatter-61,"""Because it has no name?""",thejungleconvofinal,jnamereallymatter,181
+thejungleconvofinal-jnamereallymatter-62,"""Because the name is kept secret?""",thejungleconvofinal,jnamereallymatter,182
+thejungleconvofinal-jnamereallymatter-63,"""Because the name is too long to memorize?""",thejungleconvofinal,jnamereallymatter,183
+thejungleconvofinal-jnamereallymatter-64,"""I really have no idea.""",thejungleconvofinal,jnamereallymatter,184
+thejungleconvofinal-jhasnoname-65,"""Not a bad guess. Artists are known to label their works 'Untitled' from time to time. But we aren't dealing with artists here. Corporations are the ones naming themselves, and an elegant 'Untitled' isn't going to cut it.""",thejungleconvofinal,jhasnoname,191
+thejungleconvofinal-jhasnoname-66,"""What does cut it these days then?""",thejungleconvofinal,jhasnoname,193
+thejungleconvofinal-jsecretname-67,"""I can see why you'd think that. Out of all the menus and facilities you've encountered, surely the name should be stamped somewhere right? But no, the name is not a secret. There's a different reason you haven't encountered it yet.""",thejungleconvofinal,jsecretname,200
+thejungleconvofinal-jsecretname-68,"""Why is that?""",thejungleconvofinal,jsecretname,202
+thejungleconvofinal-jnametoolong-69,"""That's a silly response. Are you trying to make a joke? If so, it's very funny, and the correct answer.""",thejungleconvofinal,jnametoolong,209
+thejungleconvofinal-jnametoolong-70,Woo hoo!,thejungleconvofinal,jnametoolong,211
+thejungleconvofinal-jterabyte-71,"""The name of this corporation is 87 terabytes in length. It would take years to speak it aloud, and that's assuming it was written in any form of human language, which it is not. In the current era, all corporations have names like this.""",thejungleconvofinal,jterabyte,218
+thejungleconvofinal-jterabyte-72,"""That's a terrible name! Shouldn't it be short enough for people to memorize?""",thejungleconvofinal,jterabyte,220
+thejungleconvofinal-jterabyte-73,"""Why don't we just make up a shorter name for it?""",thejungleconvofinal,jterabyte,221
+thejungleconvofinal-jterabyte-74,"""So uh...why the name so long?""",thejungleconvofinal,jterabyte,222
+thejungleconvofinal-jthings-75,"""A long time ago, people stopped being the reason for things, and things took reasons upon themselves.""",thejungleconvofinal,jthings,229
+thejungleconvofinal-jthings-76,"""People don't matter anymore?""",thejungleconvofinal,jthings,231
+thejungleconvofinal-jthings-77,"""Are you talking about artificial intelligence?""",thejungleconvofinal,jthings,232
+thejungleconvofinal-jthings-78,"""How did this come to pass?""",thejungleconvofinal,jthings,233
+thejungleconvofinal-jai2-79,"""AI plays a role, but the status quo is also maintained by people and their routines. Workers completing contractually obligated tasks they do not understand, mercenaries conducting missions without a cause. All of them directed by corporations without leadership, not human or AI or AE. The corporations are miraculously owned and directed by nothing other than one another.""",thejungleconvofinal,jai2,240
+thejungleconvofinal-jai2-80,"""Surely there are people who refuse to accept their position.""",thejungleconvofinal,jai2,242
+thejungleconvofinal-jai2-81,"""The buck must stop somewhere.""",thejungleconvofinal,jai2,243
+thejungleconvofinal-jpurpose-82,"""That is the purpose of our organization. To prevent the end of history and to return the control of *things* to humanity.""",thejungleconvofinal,jpurpose,250
+thejungleconvofinal-jpurpose-83,"""Return control to humanity, or take control yourself?""",thejungleconvofinal,jpurpose,252
+thejungleconvofinal-jpurpose-84,"""Can history end?""",thejungleconvofinal,jpurpose,253
+thejungleconvofinal-jpurpose-85,"""I'm in. Where do I sign up?""",thejungleconvofinal,jpurpose,254
+thejungleconvofinal-jrefuse-86,"""Employees and debtors sometimes rise against their corporate benefactors, only to find themselves hopelessly outmatched. Others, like those in my organization, survive outside the system. We ignore the contracts and debt notices. We scout out the buildings with the least security and make homes in them. We infiltrate the structures that seek to bind us and live like parasites, drinking our fill of the nectar that falls our way.""",thejungleconvofinal,jrefuse,261
+thejungleconvofinal-jrefuse-87,"""Living like a parasite doesn't sound so bad.""",thejungleconvofinal,jrefuse,263
+thejungleconvofinal-jrefuse-88,"""I'd much rather settle for a cushy job than live dangerously like that.""",thejungleconvofinal,jrefuse,264
+thejungleconvofinal-jwilljoin-89,"""Will you join our organization?""",thejungleconvofinal,jwilljoin,271
+thejungleconvofinal-jwilljoin-90,"""Yes.""",thejungleconvofinal,jwilljoin,273
+thejungleconvofinal-jwilljoin-91,"""No.""",thejungleconvofinal,jwilljoin,274
+thejungleconvofinal-jyes-92,"$toldjunglestay ""I'm elated. We're going to accomplish great, and necessary things together. Please step through this elevator beside me.""",thejungleconvofinal,jyes,281
+thejungleconvofinal-jyes-93,Goodbye!,thejungleconvofinal,jyes,283
+thejungleconvofinal-jno-94,"$toldjungleleave ""That's a shame. You would have been invaluable to our cause. In that case just return to the elevator behind you. We have freed you from your service to the corporation.""",thejungleconvofinal,jno,290
+thejungleconvofinal-jno-95,Goodbye!,thejungleconvofinal,jno,292
+thejungleconvofinal-jstealcontrol-96,"""I understand your concern. I lead because I know the postmodern jungle better than anyone. But we have rules here. I am only the leader only as long as the other members place their support with me. I have no interest in becoming a dictator. A single individual cannot direct the course of history to their liking. Our objective is humble by comparison, and even it will require a diverse collection of perspectives. That is why we all have a say.”",thejungleconvofinal,jstealcontrol,306
+thejungleconvofinal-jstealcontrol-97,"""Who gets to join the organization?""",thejungleconvofinal,jstealcontrol,308
+thejungleconvofinal-jwhogetstojoin-98,"""Anyone with skill is welcome. Not just practitioners of business like myself, and not only masters of the battlefield like you. We will invite the experts, the scientists,  the programmers, the scholars. We will invite the musicians, the chefs, the artists and poets who still remain. We will invite the craftspeople, the service workers, the janitors, and the pencil pushers. We will need all of them to complete our mission.""",thejungleconvofinal,jwhogetstojoin,315
+thejungleconvofinal-jwhogetstojoin-99,"""What about those without skill?",thejungleconvofinal,jwhogetstojoin,317
+thejungleconvofinal-jwhogetstojoin-100,"""Is skill the only thing that matters? You’ll end up inviting some crooks.""",thejungleconvofinal,jwhogetstojoin,318
+thejungleconvofinal-jwithoutskill-101,"""You mean the people like you? When you first arrived here? A field agent who could barely hit a stationary target in front of them? The structures of this world do a fantastic job at refining people into weapons and other tools of the system. We targeted this corporation because it held the infrastructure to transform anyone into an agent for our cause. Even without full control, we could begin recruiting here.""",thejungleconvofinal,jwithoutskill,325
+thejungleconvofinal-jwithoutskill-102,"""I never chose to be a field agent.""",thejungleconvofinal,jwithoutskill,327
+thejungleconvofinal-jwithoutskill-103,"""Can everyone reach our level?""",thejungleconvofinal,jwithoutskill,328
+thejungleconvofinal-jfieldagent-104,"""Then become something new. Join us and train beneath the experts in our movement. Become an accountant, a hacker, a rock and roll star. Become them all if you want. But don't discount the knowledge you've gained. The skills of an agent are best learned by everyone, it's difficult to take care of yourself in this world without them.""",thejungleconvofinal,jfieldagent,335
+thejungleconvofinal-jfieldagent-105,"""I think it's time I made my decision.""",thejungleconvofinal,jfieldagent,337
+thejungleconvofinal-jourlevel-106,"""I believe everyone can. Not everyone will have a talent for all of it. But given the resources we have today, we can all become masters of something.""",thejungleconvofinal,jourlevel,344
+thejungleconvofinal-jourlevel-107,"""I think it's time I made my decision.""",thejungleconvofinal,jourlevel,346
+thejungleconvofinal-jvillains-108,"""Many of our members have...questionable proclivities. But we need their expertise, and villains often bring unique and valuable perspectives. Infiltrating this corporation and establishing a foothold was a monumental undertaking that would not have been possible without everyone involved. What comes next will be even harder. We need all the help we can get.""",thejungleconvofinal,jvillains,353
+thejungleconvofinal-jvillains-109,"""Ur gonna let a bunch of evil masterminds take over the world. I don't see this ending well.""",thejungleconvofinal,jvillains,355
+thejungleconvofinal-jvillains-110,"""I have concerns about this group's cohesion.""",thejungleconvofinal,jvillains,356
+thejungleconvofinal-jvillains-111,"""I suppose I'm not completely innocent either.""",thejungleconvofinal,jvillains,357
+thejungleconvofinal-jvillains-112,"""Why are things going to get harder?""",thejungleconvofinal,jvillains,358
+thejungleconvofinal-jcohesion-113,"""We've made it this far, with only one exception. It's no secret that you're a bit of a replacement hire. Despite all our differences, we're united by a common goal. I believe that will be enough to carry us through.""",thejungleconvofinal,jcohesion,365
+thejungleconvofinal-jcohesion-114,"""I think it's time I made my decision.""",thejungleconvofinal,jcohesion,367
+thejungleconvofinal-jnotinnocenteither-115,"""It's very hard to be a good person these days. That's part of what I’m trying to change.""",thejungleconvofinal,jnotinnocenteither,374
+thejungleconvofinal-jnotinnocenteither-116,"""I think it's time I made my decision.""",thejungleconvofinal,jnotinnocenteither,376
+thejungleconvofinal-jhistoryend-117,"""The end of history is an old theory, an infinite era where humanity persists, without any major changes to the status quo. Things have been this way for a long, long time. The only chapter of human history lasting longer was our earliest unrecorded period, the time leading up to the first civilizations of Mesopotamia.""",thejungleconvofinal,jhistoryend,383
+thejungleconvofinal-jhistoryend-118,"""Sounds like we've reached the end of history already.""",thejungleconvofinal,jhistoryend,385
+thejungleconvofinal-jhistoryend-119,"""When it's been so long, is there really any hope of changing things?""",thejungleconvofinal,jhistoryend,386
+thejungleconvofinal-jhopeofchange-120,"""I don't think it's too late. Life in this era also has more in common with the pre-civilization time period than any other. We are unorganized. governed only by the material world. We live among corporations and contracts as early peoples lived among the trees and the weather patterns. We rose from humble beginnings before. We can rise again.""",thejungleconvofinal,jhopeofchange,393
+thejungleconvofinal-jhopeofchange-121,"""From what I've seen, there's no coming back from this.""",thejungleconvofinal,jhopeofchange,395
+thejungleconvofinal-jhopeofchange-122,"""Would it be so bad keeping things the way they are?""",thejungleconvofinal,jhopeofchange,396
+thejungleconvofinal-jhopeofchange-123,"""I'm in. Let's do this.""",thejungleconvofinal,jhopeofchange,397
+thejungleconvofinal-jnocomingback-124,"""The things you saw should indicate we *must* come back from this. Desolation. Emptiness. Millions of miles of empty urban simulacra. Fixing things will not be easy, but we can succeed with the help of skilled individuals like yourself.""",thejungleconvofinal,jnocomingback,404
+thejungleconvofinal-jnocomingback-125,"""I think it's time I made my decision.""",thejungleconvofinal,jnocomingback,406
+thejungleconvofinal-jwhynotkeepthings-126,"""Oh my, do the horrors appeal to you in some twisted way? I was once seduced by the current state of nature too. With no *true* authority to stop you, a talented person like yourself could surely carve out a space and indulge in every pleasure made possible by the technological magic surrounding us. But others are not so lucky. Not everyone has a benevolent organization waiting to lift them up. Not everyone pays off their debt. Leaving things this way and squandering your power to change them is a selfish act.""",thejungleconvofinal,jwhynotkeepthings,413
+thejungleconvofinal-jwhynotkeepthings-127,"""I think it's time I made my decision.""",thejungleconvofinal,jwhynotkeepthings,415
+thejungleconvofinal-jbuckstopssomewhere-128,"""We have searched. There is no end, no grand puppetmaster. The ownership of corporations is splintered and divided among other corporations. Once in a blue moon, a tiny piece appears in the hands of an individual. But an individual fragment is useless on its own.""",thejungleconvofinal,jbuckstopssomewhere,422
+thejungleconvofinal-jbuckstopssomewhere-129,"""What if someone collected all the pieces?""",thejungleconvofinal,jbuckstopssomewhere,424
+thejungleconvofinal-jbeingaparasite-130,"""It’s an exciting lifestyle. Few are capable of maintaining it. You must first recognize that the great powers have no legitimacy, especially now that no one is there to control them. Many of us in the organization lived this way on our own for a time. But I weep thinking that this is all we can hope to amount to. Someone must return the reins of history to humanity.""",thejungleconvofinal,jbeingaparasite,431
+thejungleconvofinal-jbeingaparasite-131,"""I'm guessing that's where you come in?""",thejungleconvofinal,jbeingaparasite,433
+thejungleconvofinal-jcushyjob-132,"""Have you enjoyed your time here then? I suppose field agents don't have it 'cushy' as you describe. I had a cushy job once. Not field work, it involved numbers, paperwork, that sort of thing. But like you I was extremely capable. I was always comfortable, but the work was empty. I was alienated from its purpose, because there was no purpose beyond the unknowable machinations or corporations endlessly acquiring one another. We can no longer settle for this. Things must change so humanity can move forward.""",thejungleconvofinal,jcushyjob,440
+thejungleconvofinal-jcushyjob-133,"""I'm guessing that's where you come in?""",thejungleconvofinal,jcushyjob,442
+thejungleconvofinal-jallthepieces-134,"""All the pieces? You only need a simple majority. After which you would control the corporation and all its assets. The task would be near impossible, but it's the only way to meaningfully gain back control.""",thejungleconvofinal,jallthepieces,449
+thejungleconvofinal-jallthepieces-135,"""I'm guessing that's what you're trying to do?""",thejungleconvofinal,jallthepieces,451
+thejungleconvofinal-jpeopledontmatter-136,"""People are all that will ever matter. But our creations became apathetic to us. Corporations lost interest in dealing with people, and now only deal with each other.""",thejungleconvofinal,jpeopledontmatter,458
+thejungleconvofinal-jpeopledontmatter-137,"""If corporations lost interest in us, what are we doing here?""",thejungleconvofinal,jpeopledontmatter,460
+thejungleconvofinal-jwhatdoinghere-138,"""Forgive me. Corporations didn't lose interest in us as employees, or tools, or products. They lost interest in us as customers, and as masters.""",thejungleconvofinal,jwhatdoinghere,467
+thejungleconvofinal-jwhatdoinghere-139,"""Why is that a problem tho?""",thejungleconvofinal,jwhatdoinghere,469
+thejungleconvofinal-jwhatdoinghere-140,"""Can we get them interested in us again? Like...maybe talk to them or something.""",thejungleconvofinal,jwhatdoinghere,470
+thejungleconvofinal-jwhyproblemignoreus-141,"""Because the emergent phenomena that follows produces an absurd outcome. What appears for sale on store shelves when human customers are no longer a factor?""",thejungleconvofinal,jwhyproblemignoreus,477
+thejungleconvofinal-jwhyproblemignoreus-142,"""Humans.""",thejungleconvofinal,jwhyproblemignoreus,479
+thejungleconvofinal-jwhyproblemignoreus-143,"""Nothing.""",thejungleconvofinal,jwhyproblemignoreus,480
+thejungleconvofinal-jwhyproblemignoreus-144,"""Just...random weird stuff probably.""",thejungleconvofinal,jwhyproblemignoreus,481
+thejungleconvofinal-jtalkorsomething-145,"""You're mistaken. A corporation isn't a person. It doesn't have feelings, or a consciousness, and there’s no one at the top to direct them for the betterment of others. They are just things, governed by increasingly complex rule sets. That's why hostile actions are necessary to overtake them at this point.""",thejungleconvofinal,jtalkorsomething,488
+thejungleconvofinal-jtalkorsomething-146,"""I'm guessing that's where you come in?""",thejungleconvofinal,jtalkorsomething,490
+thejungleconvofinal-jhumans-147,"""That is one item you'll find. Humans are capable of performing millions of tasks, and are widely desirable as a result. But there's more for sale than humans.""",thejungleconvofinal,jhumans,497
+thejungleconvofinal-jhumans-148,"""What else?""",thejungleconvofinal,jhumans,499
+thejungleconvofinal-jrandomcrap-149,"""You're correct in a way, though 'universal' may be a better word than random. Everything seems to appear..""",thejungleconvofinal,jrandomcrap,506
+thejungleconvofinal-jrandomcrap-150,"""Everything like everything everything?""",thejungleconvofinal,jrandomcrap,508
+thejungleconvofinal-jnothing-151,"""Bzzzzzt. Seems like the right answer but it's really the opposite.""",thejungleconvofinal,jnothing,515
+thejungleconvofinal-jnothing-152,"""Everything appears?""",thejungleconvofinal,jnothing,517
+thejungleconvofinal-jwhatforsale-153,"""Every product imaginable and many that are not. Raw materials, cheeseburgers, atom bombs, shambling monstrosities. It all serves an unknowable purpose to some corporation somewhere.""",thejungleconvofinal,jwhatforsale,524
+thejungleconvofinal-jwhatforsale-154,"""At least you can get whatever you want!""",thejungleconvofinal,jwhatforsale,526
+thejungleconvofinal-jwhatforsale-155,"""Wait, why would a corporation buy cheeseburgers from another corporation?""",thejungleconvofinal,jwhatforsale,527
+thejungleconvofinal-jgetwhateverwant-156,"""The lack of scarcity is both a blessing and a curse. Individuals are all too content to serve as slaves, or scavenge for what they need as renegades. For anything to change, we must rise up to explicitly challenge the system.""",thejungleconvofinal,jgetwhateverwant,534
+thejungleconvofinal-jgetwhateverwant-157,"""I'm guessing that's where you come in?""",thejungleconvofinal,jgetwhateverwant,536
+thejungleconvofinal-jwhycheeseburgers-158,"""Some reasons we can understand. A corporation employs people, those people need to eat. But other reasons are seemingly circular, or beyond our understanding. Picture a corporation that sells cheeseburgers to another corporation, one that removes the cheese and passes them along to another corporation as hamburgers. Products are endlessly constructed and deconstructed without end.""",thejungleconvofinal,jwhycheeseburgers,543
+thejungleconvofinal-jwhycheeseburgers-159,"""Why cheeseburgers tho?""",thejungleconvofinal,jwhycheeseburgers,545
+thejungleconvofinal-jwhycheeseburgers-160,"""Could this market be speculative in some way?""",thejungleconvofinal,jwhycheeseburgers,546
+thejungleconvofinal-jwhycheesetho-161,"""Shadows of the old world. A nutrient rich sludge would be more efficient, but old ideas have a way of lingering in new forms. Corporations themselves are almost unrecognizable upon close inspection. If humanity is to have a future, someone must correct their apathy.""",thejungleconvofinal,jwhycheesetho,553
+thejungleconvofinal-jwhycheesetho-162,"""I'm guessing that's where you come in?""",thejungleconvofinal,jwhycheesetho,555
+thejungleconvofinal-jspeculative-163,"""Speculation exists, but it does not explain these behaviors. Corporations aren't switching from cheeseburgers one day to hamburgers another day. These products might be reliably manufactured for hundreds of years. The absurdity is remarkably stable. Left in its current state, very little about the world will change on its own. That's why someone needs to rise up and make the change themselves.""",thejungleconvofinal,jspeculative,562
+thejungleconvofinal-jspeculative-164,"""I'm guessing that's where you come in?""",thejungleconvofinal,jspeculative,564
+thejungleconvofinal-jnotpayingattention-165,"""I wasn't expecting you to have the answer. Can you guess why?""",thejungleconvofinal,jnotpayingattention,571
+thejungleconvofinal-jnotpayingattention-166,"""Because it has no name?""",thejungleconvofinal,jnotpayingattention,573
+thejungleconvofinal-jnotpayingattention-167,"""Because the name is kept secret?""",thejungleconvofinal,jnotpayingattention,574
+thejungleconvofinal-jnotpayingattention-168,"""Because the name is too long to memorize?""",thejungleconvofinal,jnotpayingattention,575
+thejungleconvofinal-jnotpayingattention-169,"""I really have no idea.""",thejungleconvofinal,jnotpayingattention,576
+thejungleconvofinal-jwhyharder-170,"""The world is a pit of snakes, consuming one another, consuming themselves. Once we take control of this facility and its parent corporation, we will have to maintain control of it against an onslaught of hostile takeover attempts. This is why we need all the help we can get, regardless of character.""",thejungleconvofinal,jwhyharder,583
+thejungleconvofinal-jwhyharder-171,"""I think it's time I made my decision.""",thejungleconvofinal,jwhyharder,585
+thejungleconvofinal-jshortername-172,"""We can come up with all the nicknames we want, but they would hold no power. The unfathomable resources cycling through the economy would not respect those names. Due to a great tragedy, the names that matter are now so complex that no one can grasp them.""",thejungleconvofinal,jshortername,592
+thejungleconvofinal-jshortername-173,"""A tragedy?""",thejungleconvofinal,jshortername,594
+thejungleconvofinal-jwhynamesolong-174,"""These names contain a great deal of encoded information, describing assets, industry, size, history. They're written for other corporations to read, not people.""",thejungleconvofinal,jwhynamesolong,601
+thejungleconvofinal-jwhynamesolong-175,"""Isn’t it important that people can read them too?""",thejungleconvofinal,jwhynamesolong,603
+thejungleconvofinal-jwhywantme-176,"""Because you're an incredible field agent! One of my associates came by my office and told me all about you. Now you're telling me we can send this agent in, alone, against a compound full of similarly equipped hostiles, and they'll just do the job themselves??? That's ridiculous! Normally we'd have to send in a team, with air support, compromise the enemy network ahead of time. Nope, we send you in and the job is as good as done. It takes you a few tries but that’s barely even a downside.""",thejungleconvofinal,jwhywantme,610
+thejungleconvofinal-jwhywantme-177,"""Glad to hear my services are appreciated.""",thejungleconvofinal,jwhywantme,612
+thejungleconvofinal-jwhywantme-178,"""Hey! Why don't I get any help like that!""",thejungleconvofinal,jwhywantme,613
+thejungleconvofinal-jusedme-179,"""Yes, but without us here, you would have been reduced to an instrument of the corporation. I hope there are no hard feelings. We did it partly for your sake, someone like you needs an extra helping hand.""",thejungleconvofinal,jusedme,620
+thejungleconvofinal-jusedme-180,"""Why do I need extra help?""",thejungleconvofinal,jusedme,622
+thejungleconvofinal-jappreciated-181,"""You have no idea. The flexibility of an agent like you is extremely valuable. But we gotta catch you up to speed first. You're in a unique position.""",thejungleconvofinal,jappreciated,629
+thejungleconvofinal-jappreciated-182,"""How so?""",thejungleconvofinal,jappreciated,631
+thejungleconvofinal-jhelplikethat-183,"""We could incorporate you into more conventional operations. Shame to ignore such talent though, I hope you have at least some pride in it. Regardless, gotta catch you up to speed first. You're in a unique position.""",thejungleconvofinal,jhelplikethat,638
+thejungleconvofinal-jhelplikethat-184,"""How so?""",thejungleconvofinal,jhelplikethat,640
+thejungleconvofinal-jhandcontrolover-185,"""History has had its tyrants and monsters, but none could stop the flow of progress. Tyrants die. Regimes crumble. Their cruelty can only linger for so long after that. Every atrocity in human history has been little more than a bump in the road when looking at the grand scheme of things. So long as humans are in control, conditions will improve.""",thejungleconvofinal,jhandcontrolover,647
+thejungleconvofinal-jhandcontrolover-186,"""If you let your crew have their way, people could look back on this era with nostalgia. They might even try to return to it.""",thejungleconvofinal,jhandcontrolover,650
+thejungleconvofinal-jhandcontrolover-187,"""The victims did not see these atrocities as a bump in the road. You're ignorant.""",thejungleconvofinal,jhandcontrolover,651
+thejungleconvofinal-jhandcontrolover-188,"""You seem optimistic about the flow of history given where we ended up.""",thejungleconvofinal,jhandcontrolover,652
+thejungleconvofinal-jhtrytoreturn-189,"""People can't return themselves to this era because this era is defined by its apathy towards the wills of people. They may look back with nostalgia, but someday after that, people will know we did what was necessary, no matter the consequences. We shouldn't speak of this as a foregone conclusion. Should our organization succeed, there will likely be a war to decide the next fleeting step in human history. If you care about influencing the outcome, then joining our organization will put you in the best possible position to make a difference.""",thejungleconvofinal,jhtrytoreturn,659
+thejungleconvofinal-jhtrytoreturn-190,"""I think it's time I made my decision.""",thejungleconvofinal,jhtrytoreturn,661
+thejungleconvofinal-jvictims-191,"""And the people alive today see *this* situation as *anything* but a bump in the road. We're on an entirely new road now, traveling in circles, going nowhere. People are suffering. Enslaved to machines and structures just like people in the old world were. Only now there's no hope of change, not unless we collect every monster left out there and burn this limbo to the ground.""",thejungleconvofinal,jvictims,668
+thejungleconvofinal-jvictims-192,"""I think it's time I made my decision.""",thejungleconvofinal,jvictims,670
+thejungleconvofinal-jhistoricaloptimism-193,"""Strange isn't it? I only have faith in history when humanity is running the show. What we're living in now is a perversion of history. I hope you'll assist us in getting things back on track.""",thejungleconvofinal,jhistoricaloptimism,677
+thejungleconvofinal-jhistoricaloptimism-194,"""I think it's time I made my decision.""",thejungleconvofinal,jhistoricaloptimism,679
+thejungleconvofinal-jrogue-195,"""An agent goes rogue by betraying their masters. We never held any such loyalty to this corporation. We are invaders, a hostile force in the process of taking control. We selected this target so that we could gain access to skilled agents like yourself. Soon we'll own it completely.""",thejungleconvofinal,jrogue,686
+thejungleconvofinal-jrogue-196,"""Just like that? I doubt the current owners will be happy.""",thejungleconvofinal,jrogue,688
+thejungleconvofinal-jrogue-197,"""You used me?""",thejungleconvofinal,jrogue,689
+thejungleconvofinal-jhowcometopass-198,"""Slowly. The systems of global commerce grew so complex and intertwined that the structures of the old world began to fall away. What followed was the death of nature, nations, cultures, societies, sex, brands. I do not mourn the loss of these structures, some say they were never real to begin with. But we cannot tolerate the uncaring forms that replaced them. This era must end.""",thejungleconvofinal,jhowcometopass,696
+thejungleconvofinal-jhowcometopass-199,"""What about religions?""",thejungleconvofinal,jhowcometopass,698
+thejungleconvofinal-jhowcometopass-200,"""Only corporations survived then?""",thejungleconvofinal,jhowcometopass,699
+thejungleconvofinal-jhowcometopass-201,"""What will you replace the current structure with?""",thejungleconvofinal,jhowcometopass,700
+thejungleconvofinal-jreligions-202,"""How observant. Yes religion survived, hard to extinguish in an era where gods walk the earth. Religion is too perpetually fragmented to challenge the status quo at this point. These movements are limited to small cults centered around some shambling horror, or worse, involved in the worship of corporations themselves.""",thejungleconvofinal,jreligions,707
+thejungleconvofinal-jreligions-203,"""Sounds like you're not one of the faithful.""",thejungleconvofinal,jreligions,709
+thejungleconvofinal-jreligions-204,"""Why would anyone worship a corporation?""",thejungleconvofinal,jreligions,710
+thejungleconvofinal-jonlycorporations-205,"""Yes, the lowly corporation survives as a husk of its former self. They persist as impenetrable automata, content to endlessly exchange resources between each other while remaining apathetic to the wills of real people. We will stay trapped in this limbo forever until someone wrestles control back from the corporations that dominate our state of affairs.""",thejungleconvofinal,jonlycorporations,717
+thejungleconvofinal-jonlycorporations-206,"""I'm guessing that's where you come in?""",thejungleconvofinal,jonlycorporations,719
+thejungleconvofinal-jwhatreplacewith-207,"""I do not know. It is not the role of individuals, or even small collectives to design society. Societies are an emergent phenomenon that spawn from the melding of interests and conditions. The interests are still alive, but the current conditions prevent new societies from emerging. Designing new conditions would be a fool’s errand, but destroying what exists…that *can* be done.”",thejungleconvofinal,jwhatreplacewith,726
+thejungleconvofinal-jwhatreplacewith-208,"""I'm guessing that's where you come in?""",thejungleconvofinal,jwhatreplacewith,728
+thejungleconvofinal-jfaithful-209,"""I used to run with a cult. We organized around a powerful autonomous entity. It's easy to be drawn in by their majesty. Just so you know, we don't discriminate here. The faithful are welcome in our organization. But these beings are not the path forward. They don't care about the big picture, they're happy to persist in this new state of nature forever.""",thejungleconvofinal,jfaithful,735
+thejungleconvofinal-jfaithful-210,"""You have a path forward then?""",thejungleconvofinal,jfaithful,737
+thejungleconvofinal-jcorporation-211,"""Early societies worshipped the forests and the sea. Corporations replaced those things along with everything else. To you, this place may have felt like a prison. To others, corporations are the forests of old. They provide structure, shelter, and resources to plunder. The only difference is these forests fight back if too many trees are cut down, halting the development of organized civilization. Humanity is held captive in a new state of nature. Something must change.""",thejungleconvofinal,jcorporation,744
+thejungleconvofinal-jcorporation-212,"""I'm guessing that's where you come in?""",thejungleconvofinal,jcorporation,746

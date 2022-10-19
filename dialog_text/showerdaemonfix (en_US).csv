@@ -1,0 +1,53 @@
+id,text,file,node,lineNumber
+showerdaemonfix-sdstart-0,"""Boo.""",showerdaemonfix,sdstart,6
+showerdaemonfix-sdstart-1,"""GAH!""",showerdaemonfix,sdstart,8
+showerdaemonfix-sdstart-2,"""Who the hell are you?""",showerdaemonfix,sdstart,9
+showerdaemonfix-sdstart-3,"""...""",showerdaemonfix,sdstart,10
+showerdaemonfix-sdafraid-4,"""Calm down! Like damn there's no need to freak out.""",showerdaemonfix,sdafraid,17
+showerdaemonfix-sdafraid-5,"""There's a demon in my shower. I'm allowed to freak out.""",showerdaemonfix,sdafraid,19
+showerdaemonfix-sdafraid-6,"""I'm calm."" (lie)",showerdaemonfix,sdafraid,20
+showerdaemonfix-sdsilent-7,"""Don't mind me. Daemons tend to lurk in places like this. I'll be gone by the time you get back.""",showerdaemonfix,sdsilent,27
+showerdaemonfix-sdsilent-8,Goodbye!,showerdaemonfix,sdsilent,29
+showerdaemonfix-sdgoodbye-9,Empty Text,showerdaemonfix,sdgoodbye,36
+showerdaemonfix-sdwho-10,"""I'm the nefarious Shower Daemon, here to steal your soaps, shampoos, and all the hot water."" >:3",showerdaemonfix,sdwho,43
+showerdaemonfix-sdwho-11,"""That's MY soap, MY shampoo, and MY hot water! Get out!""",showerdaemonfix,sdwho,45
+showerdaemonfix-sdwho-12,"""You can stay"" :) ""I kinda wanted a roommate.""",showerdaemonfix,sdwho,46
+showerdaemonfix-sdwho-13,"""Is that all?""",showerdaemonfix,sdwho,47
+showerdaemonfix-sdgetout-14,"""Look buddy, the soap ain't yours, the shampoo ain't yours, the shower— hell nothing in this apartment belongs to you. The corporation is just lettin you borrow it. They're the ones who should be mad at me, not you.""",showerdaemonfix,sdgetout,54
+showerdaemonfix-sdgetout-15,"""The corporation doesn't barge in here and ignore my privacy at least!""",showerdaemonfix,sdgetout,56
+showerdaemonfix-sdgetout-16,"""Just tell me how I can get you to leave.""",showerdaemonfix,sdgetout,57
+showerdaemonfix-sdallowed-17,"""Well it's true that no one is gonna stop you, except for maybe the *Daemon Police* should they catch wind of your activities. Look I'm sorry about the scare. I just swung by to grab a shower and deliver some forbidden knowledge should you choose to accept it.""",showerdaemonfix,sdallowed,64
+showerdaemonfix-sdallowed-18,"""I'll take the forbidden knowledge.""",showerdaemonfix,sdallowed,65
+showerdaemonfix-sdallowed-19,"""I don't wanna hear anything forbidden, just get out.""",showerdaemonfix,sdallowed,66
+showerdaemonfix-sdcalm-20,"""Uh suuuure alright."" :|",showerdaemonfix,sdcalm,73
+showerdaemonfix-sdcalm-21,"""So what are you doing here?""",showerdaemonfix,sdcalm,75
+showerdaemonfix-sdcalm-22,"""I don't care about you or what you're doing here, but you better be gone by the time I come back.""",showerdaemonfix,sdcalm,76
+showerdaemonfix-sdall-23,"""No actually. I also come bearing forbidden knowledge. Would you care to hear it?""",showerdaemonfix,sdall,83
+showerdaemonfix-sdall-24,"""Sure why not.""",showerdaemonfix,sdall,85
+showerdaemonfix-sdall-25,"""I am 1,000,000,000% sure that I do not want to hear it.""",showerdaemonfix,sdall,86
+showerdaemonfix-sdwhatdoing-26,"""Where else would a a Shower Daemon be if not the shower? Worry not, I come bringing forbidden knowledge.""",showerdaemonfix,sdwhatdoing,93
+showerdaemonfix-sdwhatdoing-27,"""Lay it on me.""",showerdaemonfix,sdwhatdoing,95
+showerdaemonfix-sdwhatdoing-28,"""I don't want to hear forbidden knowledge.""",showerdaemonfix,sdwhatdoing,96
+showerdaemonfix-sdbetterbegone-29,"""Heheh I'll just let myself out while you're gone.""",showerdaemonfix,sdbetterbegone,103
+showerdaemonfix-sdbetterbegone-30,Goodbye!,showerdaemonfix,sdbetterbegone,105
+showerdaemonfix-sdlayit-31,"""See the rain outside? How it falls all around us? The apartment keeps us dry; a dry comfortable box. But sometimes we need the rain on our skin, so we retreat to the shower within the apartment.""",showerdaemonfix,sdlayit,112
+showerdaemonfix-sdlayit-32,"""I don't see how this knowledge is forbidden...or knowledge.""",showerdaemonfix,sdlayit,114
+showerdaemonfix-sdlayit-33,"""I understand what you're getting at."" (Lie)",showerdaemonfix,sdlayit,115
+showerdaemonfix-sdlayit-34,"""I understand what you're getting at.""",showerdaemonfix,sdlayit,116
+showerdaemonfix-sddontwant-35,"""Really? Suit yourself. If you'll excuse me I have to finish rinsing off. I'll be gone by the time you make it back from you next mission.""",showerdaemonfix,sddontwant,123
+showerdaemonfix-sddontwant-36,Goodbye!,showerdaemonfix,sddontwant,125
+showerdaemonfix-pbargein-37,"""Privacy? Have you seen how many monitored devices this apartment has? As for barging in well...just hold on to that thought. Look I don't mean to disrupt your peace here. I came to offer knowledge, forbidden knowledge. Would you like to hear?""",showerdaemonfix,pbargein,132
+showerdaemonfix-pbargein-38,"""Might as well tell me.""",showerdaemonfix,pbargein,134
+showerdaemonfix-pbargein-39,"""Nope. I got enough problems already. Keep your mouth shut.""",showerdaemonfix,pbargein,135
+showerdaemonfix-pleave-40,"""I'll let myself out before you make it back from your next mission. Would you care to hear some forbidden knowledge before I leave?""",showerdaemonfix,pleave,142
+showerdaemonfix-pleave-41,"""I'll bite.""",showerdaemonfix,pleave,144
+showerdaemonfix-pleave-42,"""No!""",showerdaemonfix,pleave,145
+showerdaemonfix-sdyoucanstay-43,"""Awwww well thank you! Its not every day I get an invitation to stay. Sorry to disappoint you but I wasn't planning on sticking around. I did want to offer you something before I left though, a little bit of *forbidden* knowledge.""",showerdaemonfix,sdyoucanstay,152
+showerdaemonfix-sdyoucanstay-44,"""Forbidden knowledge? Sounds spicy. Please tell me.""",showerdaemonfix,sdyoucanstay,154
+showerdaemonfix-sdyoucanstay-45,"""I'd rather not hear it. Forbidden knowledge sounds dangerous to know.""",showerdaemonfix,sdyoucanstay,155
+showerdaemonfix-sddontsee-46,"""Perhaps you need more of it to see the whole picture. Seek out other Daemons. They'll happily part with forbidden knowledge of their own. Now if you'll excuse me, I have some rinsing off to do.""",showerdaemonfix,sddontsee,162
+showerdaemonfix-sddontsee-47,Goodbye!,showerdaemonfix,sddontsee,164
+showerdaemonfix-sdunderstandlie-48,"""You do. You truly do. You should get back to work. That debt won't pay off itself. Say hello to any other Daemons you meet. I'll be gone by the time you make it back.""",showerdaemonfix,sdunderstandlie,171
+showerdaemonfix-sdunderstandlie-49,Goodbye!,showerdaemonfix,sdunderstandlie,173
+showerdaemonfix-sdunderstand-50,"""You might think you do, but I don't think you can see the whole picture just from what I've told you. Seek out other Daemons, they'll fill you in further. Now if you'll excuse me, I have a shower to finish. I'll be gone once you return from your next mission.""",showerdaemonfix,sdunderstand,180
+showerdaemonfix-sdunderstand-51,Goodbye!,showerdaemonfix,sdunderstand,182

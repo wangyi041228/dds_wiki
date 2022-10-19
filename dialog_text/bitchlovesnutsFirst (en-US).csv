@@ -1,0 +1,66 @@
+bitchlovesnutsFirst-blnstart-0,"""Hello little lamb. You've wandered deep into my hunting grounds.""",bitchlovesnutsFirst,blnstart,6
+bitchlovesnutsFirst-blnstart-1,"""What the heck are you doing here?""",bitchlovesnutsFirst,blnstart,8
+bitchlovesnutsFirst-blnstart-2,"""You've been giving me a really hard time! I'm gonna beat ur ass!""",bitchlovesnutsFirst,blnstart,9
+bitchlovesnutsFirst-blnstart-3,"""...""",bitchlovesnutsFirst,blnstart,10
+bitchlovesnutsFirst-blnbeatass-4,"$fightbln ""Come claim your trophy then.""",bitchlovesnutsFirst,blnbeatass,17
+bitchlovesnutsFirst-blnbeatass-5,Goodbye!,bitchlovesnutsFirst,blnbeatass,19
+bitchlovesnutsFirst-blnsilent-6,"$blnunlock ""I've already returned the corporate fragment to your faction. If you came to request my services, I'll deliver a spotting module to your place of residence. You seem deserving.""",bitchlovesnutsFirst,blnsilent,26
+bitchlovesnutsFirst-blnsilent-7,Goodbye!,bitchlovesnutsFirst,blnsilent,28
+bitchlovesnutsFirst-blnprettytalented-8,"""S-stupid! I didn't mean that as a compliment! I mean...you are pretty skilled tho ngl."" (O.O)",bitchlovesnutsFirst,blnprettytalented,42
+bitchlovesnutsFirst-blnprettytalented-9,"""Uh...you okay there?""",bitchlovesnutsFirst,blnprettytalented,44
+bitchlovesnutsFirst-blnwhatdoinghere-10,"""A long time ago, I was contracted to guard this location.""",bitchlovesnutsFirst,blnwhatdoinghere,51
+bitchlovesnutsFirst-blnwhatdoinghere-11,"""Who hired you?""",bitchlovesnutsFirst,blnwhatdoinghere,53
+bitchlovesnutsFirst-blnwhatdoinghere-12,"""What are you guarding?""",bitchlovesnutsFirst,blnwhatdoinghere,54
+bitchlovesnutsFirst-blnwhatdoinghere-13,"""Where are we even?""",bitchlovesnutsFirst,blnwhatdoinghere,55
+bitchlovesnutsFirst-blnwhatdoinghere-14,"""Why did you take the offer?""",bitchlovesnutsFirst,blnwhatdoinghere,56
+bitchlovesnutsFirst-blnwhatguarding-15,"""I don't remember.""",bitchlovesnutsFirst,blnwhatguarding,63
+bitchlovesnutsFirst-blnwhatguarding-16,"""Wha- isn't that information kind of important?!""",bitchlovesnutsFirst,blnwhatguarding,65
+bitchlovesnutsFirst-blnkindaimportant-17,"""Here I can hone my craft while the payments continue rolling in. Forever and ever. The who what where and why no longer matter.""",bitchlovesnutsFirst,blnkindaimportant,72
+bitchlovesnutsFirst-blnkindaimportant-18,"""I'm sure it gets kinda lonely up here in your sniping tower.""",bitchlovesnutsFirst,blnkindaimportant,74
+bitchlovesnutsFirst-blnkindaimportant-19,"""Sounds kinda nice actually.""",bitchlovesnutsFirst,blnkindaimportant,75
+bitchlovesnutsFirst-blnlonely-20,"""The outside was far lonelier. Here, I am the center of attention. Everyone on this grid is aware of my presence, they need to be in order to survive. They want to reach me. They crawl to my tower on their hands and knees, and I pick them off one by one. It would take an exceptional agent to reach me here.""",bitchlovesnutsFirst,blnlonely,82
+bitchlovesnutsFirst-blnlonely-21,"""Yea I'm pretty talented."" ♡( ◡‿◡ )",bitchlovesnutsFirst,blnlonely,84
+bitchlovesnutsFirst-blnlonely-22,"""Seems like you're just pushing people away.""",bitchlovesnutsFirst,blnlonely,85
+bitchlovesnutsFirst-blnpushpeopleaway-23,"""I'm not afraid of people or anything!!! But if they reach me then they'd probably kill me, and I wouldn't get to be the center of attention anymore..."" (O^O)",bitchlovesnutsFirst,blnpushpeopleaway,92
+bitchlovesnutsFirst-blnpushpeopleaway-24,"""This is and incredibly unhealthy view of interpersonal relationships.""",bitchlovesnutsFirst,blnpushpeopleaway,95
+bitchlovesnutsFirst-blnpushpeopleaway-25,"""Why do you wanna be the center of attention?""",bitchlovesnutsFirst,blnpushpeopleaway,96
+bitchlovesnutsFirst-blnyouokay-26,"""I'm fine!!!!! Um...If you're interested, do you maybe wanna work together sometime?""",bitchlovesnutsFirst,blnyouokay,103
+bitchlovesnutsFirst-blnyouokay-27,"""Sure, you got like a business card or...?""",bitchlovesnutsFirst,blnyouokay,105
+bitchlovesnutsFirst-blnyouokay-28,"""Uh idk...""",bitchlovesnutsFirst,blnyouokay,106
+bitchlovesnutsFirst-blnsendmodule-29,"$blnunlock ""I kill for money! I can drop anything but a god for $10k! No line of sight necessary if I pull out my wormhole rifle!!!! I'll mail over a spotting module so you can request my help at any time. I gotta get back to guarding the tower soon, feel free to freshen up before you head back out.""",bitchlovesnutsFirst,blnsendmodule,113
+bitchlovesnutsFirst-blnsendmodule-30,Goodbye!,bitchlovesnutsFirst,blnsendmodule,115
+bitchlovesnutsFirst-blnunhealthy-31,"""Unhealthy for them maybe. Most people don't know when to quit. That includes you by the way, how many times did I put you down on your way here?""",bitchlovesnutsFirst,blnunhealthy,122
+bitchlovesnutsFirst-blnunhealthy-32,"""Idk like once or twice.""",bitchlovesnutsFirst,blnunhealthy,124
+bitchlovesnutsFirst-blnunhealthy-33,"""A lot of times.""",bitchlovesnutsFirst,blnunhealthy,125
+bitchlovesnutsFirst-blnunhealthy-34,"""I made it here on my first try!"" (probably a lie)",bitchlovesnutsFirst,blnunhealthy,126
+bitchlovesnutsFirst-blnunhealthy-35,"""Regardless, why not try letting someone visit now and then?""",bitchlovesnutsFirst,blnunhealthy,127
+bitchlovesnutsFirst-blnletsomein-36,"""I mean I let you make it here, not on purpose but still.""",bitchlovesnutsFirst,blnletsomein,134
+bitchlovesnutsFirst-blnletsomein-37,"""You did, and it wasn't so bad right?""",bitchlovesnutsFirst,blnletsomein,136
+bitchlovesnutsFirst-blnletsomein-38,"""Maybe I could be your friend?""",bitchlovesnutsFirst,blnletsomein,137
+bitchlovesnutsFirst-blnnotsobad-39,"""Well you haven't killed me yet so, maybe letting people get closer isn't such a bad idea. Say uh, you do a lot of missions and stuff right, maybe I could lend a hand?""",bitchlovesnutsFirst,blnnotsobad,144
+bitchlovesnutsFirst-blnnotsobad-40,"""Lend a hand how?""",bitchlovesnutsFirst,blnnotsobad,146
+bitchlovesnutsFirst-blnmaybefriend-41,"""Maybe...You go on lots of missions right? Maybe I could help you a little.""",bitchlovesnutsFirst,blnmaybefriend,153
+bitchlovesnutsFirst-blnmaybefriend-42,"""How would you do that?""",bitchlovesnutsFirst,blnmaybefriend,155
+bitchlovesnutsFirst-blncanttell-43,"""It's kinda hard to tell you all apart through a thermal scope. I guess that's another advantage of seeing someone up close and personal. I don't understand what I'm feeling right now, but I don't want it to stop. Could I lend you my services? I'm sure I could be useful to you.""",bitchlovesnutsFirst,blncanttell,162
+bitchlovesnutsFirst-blncanttell-44,"""What can you do?""",bitchlovesnutsFirst,blncanttell,164
+bitchlovesnutsFirst-blncenter-45,"""I used to wander the wastes in quiet solitude. It's peaceful, but nothing cares about you out here. It's rare to see people at all, and they normally just pass you by or run away from you. But here I'm the center of it. Everyone wants a piece of me. I just wanted to feel desirable, and all that attention gets addictive after a while.""",bitchlovesnutsFirst,blncenter,171
+bitchlovesnutsFirst-blncenter-46,"""I wouldn't mind paying attention to you.""",bitchlovesnutsFirst,blncenter,173
+bitchlovesnutsFirst-blncenter-47,"""Are you just here for the attention? You mentioned honing your skills as well.""",bitchlovesnutsFirst,blncenter,174
+bitchlovesnutsFirst-blnpayingattention-48,"""In that case, would you consider accepting my aid in the field? I'm sure I could be useful.""",bitchlovesnutsFirst,blnpayingattention,181
+bitchlovesnutsFirst-blnpayingattention-49,"""How so?""",bitchlovesnutsFirst,blnpayingattention,183
+bitchlovesnutsFirst-blnskills-50,"""Yeah, I wanna be the best sniper I can be. Maybe it's just because I wanna be useful to someone though."" (O^O) ""Hey um, could you use some help in the field? I bet I could help you out.""",bitchlovesnutsFirst,blnskills,190
+bitchlovesnutsFirst-blnskills-51,"""How so?""",bitchlovesnutsFirst,blnskills,192
+bitchlovesnutsFirst-blnkindanice-52,"""I'm comfortable here in my tower, just like you're comfortable working for your corporation. There's no need to dig for answers. There's no need to leave.""",bitchlovesnutsFirst,blnkindanice,199
+bitchlovesnutsFirst-blnkindanice-53,"""I get your point.""",bitchlovesnutsFirst,blnkindanice,201
+bitchlovesnutsFirst-blnkindanice-54,"""Actually there's a lot of reasons to wanna leave.""",bitchlovesnutsFirst,blnkindanice,202
+bitchlovesnutsFirst-blnreasontoleave-55,"""Not really. Our stations allow us to develop our skills and perfect what we do best. A corporation is the best place for an agent, and my tower is the best place for me.""",bitchlovesnutsFirst,blnreasontoleave,209
+bitchlovesnutsFirst-blnreasontoleave-56,"""What if we want to do something else?""",bitchlovesnutsFirst,blnreasontoleave,211
+bitchlovesnutsFirst-blnreasontoleave-57,"""Doesn't it get lonely tho?""",bitchlovesnutsFirst,blnreasontoleave,212
+bitchlovesnutsFirst-blngetyourpoint-58,"""We're in similar circumstances. Care to purchase my services?""",bitchlovesnutsFirst,blngetyourpoint,219
+bitchlovesnutsFirst-blngetyourpoint-59,"""What kind of services?""",bitchlovesnutsFirst,blngetyourpoint,221
+bitchlovesnutsFirst-blnsomethingelse-60,"""What else would you want to be? The world today respects strength above all else. I understand where you're coming from though. Even I have...hobbies.""",bitchlovesnutsFirst,blnsomethingelse,228
+bitchlovesnutsFirst-blnsomethingelse-61,"""Ooo cool! What's your hobby?""",bitchlovesnutsFirst,blnsomethingelse,230
+bitchlovesnutsFirst-blnhobby-62,"""That's a secret!!!!!"" (>.<)",bitchlovesnutsFirst,blnhobby,237
+bitchlovesnutsFirst-blnhobby-63,"""Oh! Well okay then.""",bitchlovesnutsFirst,blnhobby,239
+bitchlovesnutsFirst-blnokaythen-64,"""Sniping is like, my main thing! Maybe I could give you a hand some time!""",bitchlovesnutsFirst,blnokaythen,246
+bitchlovesnutsFirst-blnokaythen-65,"""By sniping?""",bitchlovesnutsFirst,blnokaythen,248

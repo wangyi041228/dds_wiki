@@ -1,0 +1,125 @@
+id,text,file,node,lineNumber
+Concierge0fixed-Concierge0-0,"""Hello hun, are you the new employee?""",Concierge0fixed,Concierge0,6
+Concierge0fixed-Concierge0-1,"""You tell me.""",Concierge0fixed,Concierge0,8
+Concierge0fixed-Concierge0-2,"""Yes, I know for a fact that I am the new employee."" (lie)",Concierge0fixed,Concierge0,9
+Concierge0fixed-Concierge0-3,"""Help! I don't know who I am!! I don't know where I am!!! Let me out!!!! Let me out of this box!!!!!""",Concierge0fixed,Concierge0,10
+Concierge0fixed-Concierge0-4,"""...""",Concierge0fixed,Concierge0,11
+Concierge0fixed-coolpath-5,"""Seeing as security let you in alive, you're probably the new employee dear ;) Either that, or some sort of hotshot here to meet with the executives.""",Concierge0fixed,coolpath,25
+Concierge0fixed-coolpath-6,"""I guess I'm the new employee then.""",Concierge0fixed,coolpath,27
+Concierge0fixed-coolpath-7,"""I am the hottest of shots.""",Concierge0fixed,coolpath,28
+Concierge0fixed-lyingpath-8,"""Oh really? Why don't you tell me your employee ID code then?""",Concierge0fixed,lyingpath,35
+Concierge0fixed-lyingpath-9,"""1234567"" (lie)",Concierge0fixed,lyingpath,37
+Concierge0fixed-lyingpath-10,"""Sorry, I don't know my ID yet. Could you tell me?""",Concierge0fixed,lyingpath,38
+Concierge0fixed-lyingpath-11,"""69"" (LOL!)",Concierge0fixed,lyingpath,39
+Concierge0fixed-helppath-12,"""Whoa whoa slow down hun. Don't worry, you're in the right place, you're safe. We're going to take care of you.""",Concierge0fixed,helppath,46
+Concierge0fixed-helppath-13,(╥﹏╥),Concierge0fixed,helppath,48
+Concierge0fixed-meEmployee-14,"""The new employee? We've been expecting you hun. I'll prep the paperwork. You can take the elevator when you're ready.""",Concierge0fixed,meEmployee,55
+Concierge0fixed-meEmployee-15,"""I'm ready, thanks for your help.""",Concierge0fixed,meEmployee,57
+Concierge0fixed-meEmployee-16,"""Hold on, what do employees do here exactly?""",Concierge0fixed,meEmployee,58
+Concierge0fixed-hotshot-17,"""A hot shot hm? We *employ* a lot of hotshots dear. But the hotshots always arrive by helicopter when they're here to see the executives. So how come you're walking in off the street hm?""",Concierge0fixed,hotshot,65
+Concierge0fixed-hotshot-18,"""Maybe I was mistaken. I guess I'm just a new employee.""",Concierge0fixed,hotshot,67
+Concierge0fixed-hotshot-19,"""So you can call me a helicopter of course."" (⌐■_■)",Concierge0fixed,hotshot,68
+Concierge0fixed-thankforhelp-20,"""Of course dear. Please enjoy your stay with us.""",Concierge0fixed,thankforhelp,75
+Concierge0fixed-thankforhelp-21,Goodbye!,Concierge0fixed,thankforhelp,77
+Concierge0fixed-whatemployeedo-22,"""Mercenary work. Espionage,  assassination, rabble-rousing. I'm sure this is all within your wheelhouse.""",Concierge0fixed,whatemployeedo,84
+Concierge0fixed-whatemployeedo-23,"""All of that is in my wheelhouse.""",Concierge0fixed,whatemployeedo,86
+Concierge0fixed-whatemployeedo-24,"""At least some of that is in my wheelhouse.""",Concierge0fixed,whatemployeedo,87
+Concierge0fixed-whatemployeedo-25,"""That doesn't sound like my wheelhouse at all.""",Concierge0fixed,whatemployeedo,88
+Concierge0fixed-allinmywheelhouse-26,"""My my, sounds like we have ourselves a little jack of all trades here! We know what you're capable of honey. That's why we gave you a second chance. Hop in the elevator now. You'll find some paperwork for you there.""",Concierge0fixed,allinmywheelhouse,95
+Concierge0fixed-allinmywheelhouse-27,Goodbye!,Concierge0fixed,allinmywheelhouse,97
+Concierge0fixed-someinmywheelhouse-28,"""You'll be able to decide which missions you take on during your stay with us. Agents have different tastes. Some agents prefer not to kill others for instance.""",Concierge0fixed,someinmywheelhouse,104
+Concierge0fixed-someinmywheelhouse-29,"""Good. Killing people is lame!""",Concierge0fixed,someinmywheelhouse,106
+Concierge0fixed-someinmywheelhouse-30,"""I actually like killing people.""",Concierge0fixed,someinmywheelhouse,107
+Concierge0fixed-notmywheelhouse-31,"""Oh? Are you sure? We wouldn't have hired you unless at least *some* of that was in your wheelhouse. Memory loss is a common side effect of full body restoration. Take a few cheap and easy missions to start with. Your violent nature will return to you in time.""",Concierge0fixed,notmywheelhouse,114
+Concierge0fixed-notmywheelhouse-32,"""I am not a particularly violent individual.""",Concierge0fixed,notmywheelhouse,116
+Concierge0fixed-notmywheelhouse-33,"""I am an *extremely* violent individual.""",Concierge0fixed,notmywheelhouse,117
+Concierge0fixed-killingIsLame-34,"""See...I had pegged you as more of a 'good puppy' than a 'rabid dog.' Killing *is* lame dear. And very *very* naughty. Good agents never ever kill. Got that?""",Concierge0fixed,killingIsLame,124
+Concierge0fixed-killingIsLame-35,"""Mhm! Got it.""",Concierge0fixed,killingIsLame,126
+Concierge0fixed-killingIsCool-36,"""Real agents like us know the exhilaration of a good kill. I love it, the killing, watching others kill, it gets me so hot."" ｡ﾟ･ (>﹏<) ･ﾟ｡",Concierge0fixed,killingIsCool,133
+Concierge0fixed-killingIsCool-37,"""I know the feeling""",Concierge0fixed,killingIsCool,135
+Concierge0fixed-killingIsCool-38,"""Wait what? It gets you hot?"" (O_O;)",Concierge0fixed,killingIsCool,136
+Concierge0fixed-notviolent-39,"""Awwww don't worry sweaty. We have plenty of nonviolent tasks for you to accomplish, if that's your style.""",Concierge0fixed,notviolent,143
+Concierge0fixed-notviolent-40,"""Thank goodness.""",Concierge0fixed,notviolent,145
+Concierge0fixed-notviolent-41,"""Wait, did you just call me sweaty?""",Concierge0fixed,notviolent,146
+Concierge0fixed-runalong-42,"""Run along now dear, up the elevator. You'll find the new employee paperwork waiting for you there.""",Concierge0fixed,runalong,153
+Concierge0fixed-runalong-43,Goodbye!,Concierge0fixed,runalong,155
+Concierge0fixed-gotit-44,"""Very good. Now hop on the elevator dear. It'll take you where you need to go.""",Concierge0fixed,gotit,162
+Concierge0fixed-gotit-45,Goodbye!,Concierge0fixed,gotit,164
+Concierge0fixed-knowwhatyoumean-46,"""Perhaps we are cut from the same cloth. But you have yet to prove your worth. Take the elevator when you're ready, we have work to do.""",Concierge0fixed,knowwhatyoumean,171
+Concierge0fixed-knowwhatyoumean-47,Goodbye!,Concierge0fixed,knowwhatyoumean,173
+Concierge0fixed-whathot-48,"""Yeah. It gets me hot. Got a problem with that?""",Concierge0fixed,whathot,180
+Concierge0fixed-whathot-49,(;;;*_*),Concierge0fixed,whathot,182
+Concierge0fixed-whathot-50,(o_O),Concierge0fixed,whathot,183
+Concierge0fixed-whathot-51,(・_・),Concierge0fixed,whathot,184
+Concierge0fixed-whathot-52,(｡•́︿•̀｡),Concierge0fixed,whathot,185
+Concierge0fixed-leavenow-53,"""I'm busy dear. Take the elevator up. We'll get you settled in.""",Concierge0fixed,leavenow,192
+Concierge0fixed-leavenow-54,Goodbye!,Concierge0fixed,leavenow,194
+Concierge0fixed-callmecopter-55,"""Heheheh."" (￣▽￣)/ ""Looks like we have ourselves a smoooooth little talker here. Take the elevator up hun. You'll get your helicopter.""",Concierge0fixed,callmecopter,201
+Concierge0fixed-callmecopter-56,Goodbye!,Concierge0fixed,callmecopter,203
+Concierge0fixed-badIDLie-57,"""Nice try sweaty, we don't use employee ID codes here. And even if we did, I doubt your ID would be 1234567.""",Concierge0fixed,badIDLie,210
+Concierge0fixed-badIDLie-58,"Oh shit oh fuck, I've been caught in a lie! (thinking internally)",Concierge0fixed,badIDLie,212
+Concierge0fixed-badIDLie-59,"""I know you don't use ID codes here, I was just joking"" (lie again)",Concierge0fixed,badIDLie,213
+Concierge0fixed-askForID-60,"""Sure thing hun, in fact I have it right here. Looks like your ID number is...1234567. Wow, what are the odds?""",Concierge0fixed,askForID,220
+Concierge0fixed-askForID-61,"""Wow lucky me!""",Concierge0fixed,askForID,222
+Concierge0fixed-lolLie-62,"""Looks like we have ourselves a real joker here. That was a funny joke hun. In fact, it was so funny I think you've earned a reward.""",Concierge0fixed,lolLie,229
+Concierge0fixed-lolLie-63,"""A reward? What did I win??""",Concierge0fixed,lolLie,231
+Concierge0fixed-caughtInLie-64,"""You're probably panicking because you've been caught in a lie. No need to worry, we employ many liars. Lying is part of the job. Admittedly, we strive to hire *better* liars than you. Regardless, you're definitely the employee we were expecting. I've prepared some paperwork for you on the floor above. Take the elevator when you're ready.""",Concierge0fixed,caughtInLie,238
+Concierge0fixed-caughtInLie-65,"""I'll head on up. Sorry that I lied.""",Concierge0fixed,caughtInLie,240
+Concierge0fixed-caughtInLie-66,"""Besides lying, what else do employees do here?""",Concierge0fixed,caughtInLie,241
+Concierge0fixed-lieAgain-67,"""No, that wasn't a joke. You lied to me hun, for the last time I hope.""",Concierge0fixed,lieAgain,248
+Concierge0fixed-lieAgain-68,(・_・;),Concierge0fixed,lieAgain,250
+Concierge0fixed-apologizeForLie-69,"""Oh don't sweat it honey. A little lie now and then never hurt anyone. Head through the elevator when you're ready. You'll find some paperwork waiting for you there.""",Concierge0fixed,apologizeForLie,257
+Concierge0fixed-apologizeForLie-70,Goodbye!,Concierge0fixed,apologizeForLie,259
+Concierge0fixed-caughtAgain-71,"""Don't worry hun, I'm not mad, I'm not upset. Lying can even be a little cute sometimes."" (◕‿◕✿) ""You can lie to others while you work for us. Just don't lie to me.""",Concierge0fixed,caughtAgain,266
+Concierge0fixed-caughtAgain-72,(;;;*_*),Concierge0fixed,caughtAgain,268
+Concierge0fixed-superSweaty-73,"""Never lie to me. I'll beat you into the gravel where you belong.""",Concierge0fixed,superSweaty,275
+Concierge0fixed-superSweaty-74,(O_O;),Concierge0fixed,superSweaty,277
+Concierge0fixed-sorrygorlying-75,"""Now say you're sorry.""",Concierge0fixed,sorrygorlying,284
+Concierge0fixed-sorrygorlying-76,"""I'm sorry.""",Concierge0fixed,sorrygorlying,286
+Concierge0fixed-imsorry-77,"""Good job."" (◕‿◕✿) ""It's pretty obvious you're a new employee. Why don't you take the elevator up and we'll get you situated.""",Concierge0fixed,imsorry,293
+Concierge0fixed-imsorry-78,Goodbye!,Concierge0fixed,imsorry,295
+Concierge0fixed-luckyMe-79,"""Mhm very lucky, such an easy ID number to remember. That's all the info I need. I'll have the new employee contract prepared. Take the elevator when you're ready.""",Concierge0fixed,luckyMe,302
+Concierge0fixed-luckyMe-80,"""Thanks for your help.""",Concierge0fixed,luckyMe,304
+Concierge0fixed-luckyMe-81,"""Wait, what is it employees do here exactly?""",Concierge0fixed,luckyMe,305
+Concierge0fixed-ofCourse-82,"""Of course hun. Just doing my job. Now go do yours.""",Concierge0fixed,ofCourse,312
+Concierge0fixed-ofCourse-83,Goodbye!,Concierge0fixed,ofCourse,314
+Concierge0fixed-rewardAnswer-84,"""Company policy says that EXTRA funny employees are entitled to a single fat-free unsalted saltine cracker.""",Concierge0fixed,rewardAnswer,321
+Concierge0fixed-rewardAnswer-85,"""Cool! When do I get it?""",Concierge0fixed,rewardAnswer,323
+Concierge0fixed-rewardAnswer-86,"""That's like...the second or third worst prize I've ever heard of.""",Concierge0fixed,rewardAnswer,324
+Concierge0fixed-whenYouGetIt-87,"""I'll have it sent up to your complimentary employee housing. The elevator will take you there.""",Concierge0fixed,whenYouGetIt,331
+Concierge0fixed-whenYouGetIt-88,"""I'll get going then. Thanks for your help.""",Concierge0fixed,whenYouGetIt,333
+Concierge0fixed-whenYouGetIt-89,"""Wait...what do employees even do here?""",Concierge0fixed,whenYouGetIt,334
+Concierge0fixed-stupidPrizes-90,"""Play stupid games, win stupid prizes I suppose.""",Concierge0fixed,stupidPrizes,341
+Concierge0fixed-stupidPrizes-91,"""What other stupid prizes can I win?""",Concierge0fixed,stupidPrizes,343
+Concierge0fixed-otherStupidPrizes-92,"""If you come work for us, there are many prizes you can win! I've prepared some paperwork so you can get started. Take the elevator when you're ready.""",Concierge0fixed,otherStupidPrizes,350
+Concierge0fixed-otherStupidPrizes-93,"""I'll do that. Thanks for your help.""",Concierge0fixed,otherStupidPrizes,352
+Concierge0fixed-otherStupidPrizes-94,"""Wait, what do your employees do here exactly?",Concierge0fixed,otherStupidPrizes,353
+Concierge0fixed-silent3-95,"$silent_in_intro ""A lot of new employees come through here. I see the serious types, the relaxed types. But the quiet types are my favorite. Do you know why? They're the most obedient!"" (＠＾◡＾)",Concierge0fixed,silent3,360
+Concierge0fixed-silent3-96,"""...""",Concierge0fixed,silent3,362
+Concierge0fixed-silent3-97,"""...""",Concierge0fixed,silent3,363
+Concierge0fixed-silent3-98,"""...""",Concierge0fixed,silent3,364
+Concierge0fixed-silent3-99,"""...""",Concierge0fixed,silent3,365
+Concierge0fixed-silent7-100,"""Welcome aboard hun. Take the elevator up a few floors. We'll get you situated.""",Concierge0fixed,silent7,372
+Concierge0fixed-silent7-101,Goodbye!,Concierge0fixed,silent7,374
+Concierge0fixed-help0-102,"""There there. I'm going to explain things, and then we're gonna get you settled in, alright hun?""",Concierge0fixed,help0,381
+Concierge0fixed-help0-103,"""Alright...""",Concierge0fixed,help0,383
+Concierge0fixed-help1-104,"""Here we employ *highly* skilled agents who hold considerable amounts of debt, usually medical debt. During your stay with us, you can complete contracts at your own pace until you manage to pay all of it off. Make sense?""",Concierge0fixed,help1,390
+Concierge0fixed-help1-105,"""Makes sense."" (◕‿◕✿)",Concierge0fixed,help1,392
+Concierge0fixed-help2-106,"""As an agent, you can complete contracts with a focus on infiltration, assassination, hacking, and more! You'll be provided with a spacious employee apartment and given access to a top class marketplace for all your equipment needs. Sound good?""",Concierge0fixed,help2,399
+Concierge0fixed-help2-107,"""Sound good."" (◕‿◕✿)",Concierge0fixed,help2,401
+Concierge0fixed-help3-108,"""We also understand that memory loss and other side effects can follow from extensive medical operations. As part of your introduction, we'll help refamiliarize you with the basics of hacking and firearms training.""",Concierge0fixed,help3,408
+Concierge0fixed-help3-109,"""Woo! Guns!"" (◕‿◕✿)",Concierge0fixed,help3,410
+Concierge0fixed-help4-110,"""Yes yes very exciting! Now whenever you're ready, just take the elevator up. We'll get you processed and situated in your new living space.""",Concierge0fixed,help4,417
+Concierge0fixed-help4-111,"""Thank you so much. I was so afraid but you cleared everything up."" (◕‿◕✿)",Concierge0fixed,help4,419
+Concierge0fixed-cleareditup-112,"""I know hun. Big life changes can be scary, but I'll be here to help you through it. Take the elevator when you're ready.""",Concierge0fixed,cleareditup,426
+Concierge0fixed-cleareditup-113,Goodbye!,Concierge0fixed,cleareditup,428
+Concierge0fixed-sweet-114,"""Are you shy hun? It's alright, you can speak up. I'm here to help you get settled. You can trust me.""",Concierge0fixed,sweet,435
+Concierge0fixed-sweet-115,"""...""",Concierge0fixed,sweet,438
+Concierge0fixed-sweet-116,"""...""",Concierge0fixed,sweet,439
+Concierge0fixed-sweet-117,"""...""",Concierge0fixed,sweet,440
+Concierge0fixed-sweet-118,"""...""",Concierge0fixed,sweet,441
+Concierge0fixed-pause-119,"""...""",Concierge0fixed,pause,448
+Concierge0fixed-pause-120,"""...""",Concierge0fixed,pause,450
+Concierge0fixed-pause-121,"""...""",Concierge0fixed,pause,451
+Concierge0fixed-pause-122,"""...""",Concierge0fixed,pause,452
+Concierge0fixed-pause-123,"""...""",Concierge0fixed,pause,453

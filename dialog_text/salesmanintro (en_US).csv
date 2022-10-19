@@ -1,0 +1,32 @@
+id,text,file,node,lineNumber
+salesmanintro-tsstart-0,"""Good evening. You strike me as someone with cash to spare.""",salesmanintro,tsstart,6
+salesmanintro-tsstart-1,"""I do have some cash on hand...""",salesmanintro,tsstart,8
+salesmanintro-tsstart-2,"""Money's pretty tight right now!""",salesmanintro,tsstart,9
+salesmanintro-tsstart-3,"""...""",salesmanintro,tsstart,10
+salesmanintro-tscashonhand-4,"""I wouldn't be here otherwise. Anyone with less than a hundred G's sitting in their pocket isn't worth my time.""",salesmanintro,tscashonhand,17
+salesmanintro-tscashonhand-5,"""So what are you? Some sort of...traveling salesman?""",salesmanintro,tscashonhand,19
+salesmanintro-tscashonhand-6,"""One hundred K is nothing for me.""",salesmanintro,tscashonhand,20
+salesmanintro-tsmoneystight-7,"""Good thing I've got the best prices then. Someone in your line of work needs every edge they can get. I'm here to supply them. Supply...the edges...uh...""",salesmanintro,tsmoneystight,27
+salesmanintro-tsmoneystight-8,"Just tell me what you're selling.""",salesmanintro,tsmoneystight,29
+salesmanintro-tssilent-9,"""A customer who lets me do all the talking? Now that I could get used to. I deal in specialty wares. Chiplets, unique abilities, that sort of thing. I'll have a kiosk up and running by the time you come here.""",salesmanintro,tssilent,36
+salesmanintro-tssilent-10,Goodbye!,salesmanintro,tssilent,38
+salesmanintro-tssomesorta-11,"""Right you are. I travel about, peddling my specialty wares to all who need them.""",salesmanintro,tssomesorta,45
+salesmanintro-tssomesorta-12,"""Cool! What do you have in stock?""",salesmanintro,tssomesorta,47
+salesmanintro-tssomesorta-13,"""I already have access to a shop back at my apartment.""",salesmanintro,tssomesorta,48
+salesmanintro-tswhatinstock-14,"$boughthalfoffchiplet ""I don't have my kiosk set up yet. But I *can* sell you this chiplet I have on hand for half off. $25k. One time offer.""",salesmanintro,tswhatinstock,55
+salesmanintro-tswhatinstock-15,"""I'll take it."" (buy chiplet for $25k)",salesmanintro,tswhatinstock,57
+salesmanintro-tswhatinstock-16,"""Not today.""",salesmanintro,tswhatinstock,58
+salesmanintro-tsalreadygotaccess-17,"""What, that shabby corporate outlet? What are even gonna buy there?? A gun??? What are you gonna do with a gun???? Shoot people?????""",salesmanintro,tsalreadygotaccess,65
+salesmanintro-tsalreadygotaccess-18,"""Yeah actually.""",salesmanintro,tsalreadygotaccess,67
+salesmanintro-tsalreadygotaccess-19,"""You're right! Who needs guns?""",salesmanintro,tsalreadygotaccess,68
+salesmanintro-ttakeit-20,"""Nice doing business with you. I'll have a kiosk set up with more goodies by the time you make it back. Anytime you got a little extra cash, little extra dough, dosh, brouzouf, be sure to take a look at my wares""",salesmanintro,ttakeit,82
+salesmanintro-ttakeit-21,Goodbye!,salesmanintro,ttakeit,84
+salesmanintro-tnottoday-22,"""Suit yourself. If you change your mind, I'll have a kiosk set up by the time you make it back.""",salesmanintro,tnottoday,91
+salesmanintro-tnottoday-23,Goodbye!,salesmanintro,tnottoday,93
+salesmanintro-tsmyshopbetter-24,"""My shop is waaaay better. I got chiplets and special abilities for sale. These babies things'll let you perform all sorts of cool stuff.""",salesmanintro,tsmyshopbetter,100
+salesmanintro-tsmyshopbetter-25,"""So how do I buy this stuff?""",salesmanintro,tsmyshopbetter,102
+salesmanintro-tsmyshopbetter-26,"""Nah I don't need that stuff.""",salesmanintro,tsmyshopbetter,103
+salesmanintro-twhoneedsguns-27,"""Not me! Unless someone wants to buy them from me. In which case, I would need a number of guns equal to or greater than the number they wish to buy.""",salesmanintro,twhoneedsguns,110
+salesmanintro-twhoneedsguns-28,"""If you're not selling guns, what do you have for me?""",salesmanintro,twhoneedsguns,112
+salesmanintro-tfiftyisnothing-29,"""Ho ho, sounds like we got ourselves a BIG SPENDER here. I'm a BIG...a BIG GET SPENDED ON! We're sure to get along fine.""",salesmanintro,tfiftyisnothing,119
+salesmanintro-tfiftyisnothing-30,"""So what do you have for sale today?""",salesmanintro,tfiftyisnothing,121

@@ -1,0 +1,82 @@
+id,text,file,node,lineNumber
+duvethelipad-pstart-0,"*sniff* ""Oh hey there..."" (ಥ﹏ಥ)",duvethelipad,pstart,6
+duvethelipad-pstart-1,"""What's wrong?""",duvethelipad,pstart,8
+duvethelipad-pstart-2,"""...""",duvethelipad,pstart,9
+duvethelipad-pwhatswrong-3,"""Oh nothing."" *sniff* ""I'm just so lost and confused with NO IDEA what to do. Started working here recently and its been a nightmare ever since. Is it just me or...does nothing about this corporation make sense?""",duvethelipad,pwhatswrong,16
+duvethelipad-pwhatswrong-4,"""I know right?""",duvethelipad,pwhatswrong,18
+duvethelipad-pwhatswrong-5,"""What doesn't make sense about it?""",duvethelipad,pwhatswrong,19
+duvethelipad-psilent-6,"""I'm trying to figure out how I'll pay off this debt. Some friends of mine were gonna bust me out of here, but it looks like that's not gonna happen."" *sniff*",duvethelipad,psilent,26
+duvethelipad-psilent-7,"""...""",duvethelipad,psilent,28
+duvethelipad-psilent-8,"""...""",duvethelipad,psilent,29
+duvethelipad-psilent-9,"""...""",duvethelipad,psilent,30
+duvethelipad-psilent-10,"""...""",duvethelipad,psilent,31
+duvethelipad-piknow-11,"""Like...there's just no way to pay off our debts with such meager earnings! Its transparent slavery, there's no hope for us. Unless...wanna try and escape with me? I got a plan to wipe away the debts, but it's a two person job.""",duvethelipad,piknow,38
+duvethelipad-piknow-12,"""Let's do it.""",duvethelipad,piknow,40
+duvethelipad-piknow-13,"""No thanks.""",duvethelipad,piknow,41
+duvethelipad-pwhatdoesnt-14,"""How is this agency even profitable? It costs a million bucks to revive us, but we're only pulling in chump change. Why do they keep bringing us back to life if all I can do is bring in a couple grand each mission?""",duvethelipad,pwhatdoesnt,48
+duvethelipad-pwhatdoesnt-15,"""You're right, it makes no sense.""",duvethelipad,pwhatdoesnt,50
+duvethelipad-pwhatdoesnt-16,"""We pay a million per death, they probably pay less than that to retrieve us.""",duvethelipad,pwhatdoesnt,51
+duvethelipad-pwhatdoesnt-17,"""We're paid a couple grand per mission, the company might take a larger slice we don't see.""",duvethelipad,pwhatdoesnt,52
+duvethelipad-previvecost-18,"""Seems weird that it would cost a million bucks to retrieve a body huh? We're only paid a couple grand to fly out and perform way more difficult tasks. Are they even retrieving our bodies? Wiping up the mess off the floor and scooping it into a bucket? The Missions BBS has never offered me a 'body retrieval' mission. Something weird is going on here. I'm pretty sick of getting shot to pieces in the field, wanna try and escape this place with me? I got a plan to wipe away the debt, but it's a two person job.""",duvethelipad,previvecost,59
+duvethelipad-previvecost-19,"""I'm in. Let's escape together.""",duvethelipad,previvecost,61
+duvethelipad-previvecost-20,"""No thanks.""",duvethelipad,previvecost,62
+duvethelipad-pmissioncost-21,"""Hm I never thought about that. I assumed that the agency was taking a cut of our earnings, but I assumed it would be pretty small considering how much they make off us in interest. Regardless...if that's the case then we're getting doubly screwed. Neither of us are gonna pay off our debts at this rate. So...wanna escape with me? I got a plan to erase our debts, but it's a two person job.""",duvethelipad,pmissioncost,69
+duvethelipad-pmissioncost-22,"""Sounds good. I'm in.""",duvethelipad,pmissioncost,71
+duvethelipad-pmissioncost-23,"""No thanks.""",duvethelipad,pmissioncost,72
+duvethelipad-psilent2-24,"""Are you...gonna say anything?"" *sniff*",duvethelipad,psilent2,79
+duvethelipad-psilent2-25,"""...""",duvethelipad,psilent2,81
+duvethelipad-psilent2-26,"""...""",duvethelipad,psilent2,82
+duvethelipad-psilent2-27,"""...""",duvethelipad,psilent2,83
+duvethelipad-psilent2-28,"""...""",duvethelipad,psilent2,84
+duvethelipad-psilent3-29,"""Sorry I just...I need help and I don't know what to do at this point. I saw you walking by and thought I could ask for help. But...you're not saying anything.""",duvethelipad,psilent3,91
+duvethelipad-psilent3-30,"""...""",duvethelipad,psilent3,93
+duvethelipad-psilent3-31,"""...""",duvethelipad,psilent3,94
+duvethelipad-psilent3-32,"""...""",duvethelipad,psilent3,95
+duvethelipad-psilent3-33,"""...""",duvethelipad,psilent3,96
+duvethelipad-psilent4-34,"""Am I not worth talking to?"" (╥﹏╥)",duvethelipad,psilent4,103
+duvethelipad-psilent4-35,"""...""",duvethelipad,psilent4,105
+duvethelipad-psilent4-36,"""...""",duvethelipad,psilent4,106
+duvethelipad-psilent4-37,"""...""",duvethelipad,psilent4,107
+duvethelipad-psilent4-38,"""...""",duvethelipad,psilent4,108
+duvethelipad-psilent5-39,"""Please say something. It can be anything, don't leave me alone like everyone else has."" *sniff sniff*",duvethelipad,psilent5,115
+duvethelipad-psilent5-40,"""...""",duvethelipad,psilent5,117
+duvethelipad-psilent5-41,"""...""",duvethelipad,psilent5,118
+duvethelipad-psilent5-42,"""...""",duvethelipad,psilent5,119
+duvethelipad-psilent5-43,"""Sorry, I needed a moment.""",duvethelipad,psilent5,120
+duvethelipad-psilent6-44,"""Still silent...Could it be that...you're just shy?""",duvethelipad,psilent6,127
+duvethelipad-psilent6-45,"""...""",duvethelipad,psilent6,129
+duvethelipad-psilent6-46,"""...""",duvethelipad,psilent6,130
+duvethelipad-psilent6-47,"""...""",duvethelipad,psilent6,131
+duvethelipad-psilent6-48,"""...""",duvethelipad,psilent6,132
+duvethelipad-pneededamoment-49,"""Oh! You can talk! I wasn't sure what to make of you. Anyways, wanna escape this place with me and wipe off our debts? I got a plan but it's a two person job.""",duvethelipad,pneededamoment,139
+duvethelipad-pneededamoment-50,"""I'm down. Let's do it.""",duvethelipad,pneededamoment,141
+duvethelipad-pneededamoment-51,"""No thanks.""",duvethelipad,pneededamoment,142
+duvethelipad-pdoit-52,"$duvet_questline ""Sweet. I have some friends on the outside that'll be lending us a hand too. They haven't been responding to my messages lately though...so I'm a little worried something happened to them. I marked down your codename. I'll send you an email with the deets later.""",duvethelipad,pdoit,149
+duvethelipad-pdoit-53,Goodbye!,duvethelipad,pdoit,151
+duvethelipad-pnothanks-54,"""Oh...you don't want to escape? Are you sure?""",duvethelipad,pnothanks,158
+duvethelipad-pnothanks-55,"""Just kidding. I'm in. Let's escape together.""",duvethelipad,pnothanks,160
+duvethelipad-pnothanks-56,"""I don't want to escape this place with you.""",duvethelipad,pnothanks,161
+duvethelipad-psilent7-57,"""That must be it. I don't think this can work... not with you. Go on ahead to your mission. Pay me no mind.""",duvethelipad,psilent7,168
+duvethelipad-psilent7-58,Goodbye!,duvethelipad,psilent7,170
+duvethelipad-pgoodbye-59,Empty Text,duvethelipad,pgoodbye,177
+duvethelipad-pnoescape-60,"""I see...How come?""",duvethelipad,pnoescape,184
+duvethelipad-pnoescape-61,"""I don't want to draw the ire of our benefactors.""",duvethelipad,pnoescape,186
+duvethelipad-pnoescape-62,"""I like working here.""",duvethelipad,pnoescape,187
+duvethelipad-pnoescape-63,"""I don't trust you.""",duvethelipad,pnoescape,188
+duvethelipad-pire-64,"""Feeling afraid huh? The top brass of this place has considerable power. I guess...I can't blame you. We get pressured into doing all sorts of awful things. I'll find another agent to help me. Keep your head down and take care.""",duvethelipad,pire,195
+duvethelipad-pire-65,Goodbye!,duvethelipad,pire,197
+duvethelipad-plikeworkinghere-66,"""You do? Well...not sure what I can say to that. I'm at a loss, seriously. I'll find another agent to help me with my plan. See you around.""",duvethelipad,plikeworkinghere,204
+duvethelipad-plikeworkinghere-67,Goodbye!,duvethelipad,plikeworkinghere,206
+duvethelipad-pnotrust-68,"""Can I ask why?""",duvethelipad,pnotrust,213
+duvethelipad-pnotrust-69,"""I don't know you well enough.""",duvethelipad,pnotrust,215
+duvethelipad-pnotrust-70,"""You started out lost and confused, but all of the sudden you have a plan.""",duvethelipad,pnotrust,216
+duvethelipad-pwellenough-71,"""Well we just met...maybe we could get to know each other while we work? Sure you don't wanna join me?""",duvethelipad,pwellenough,223
+duvethelipad-pwellenough-72,"""I changed my mind. I'm in. Let's escape together.""",duvethelipad,pwellenough,225
+duvethelipad-pwellenough-73,"""I don't want to join you.""",duvethelipad,pwellenough,226
+duvethelipad-pplan-74,"""Well...it's a two person job. I can't do it myself and I don't have any contacts here. Sure you don't wanna join me?""",duvethelipad,pplan,233
+duvethelipad-pplan-75,"""I changed my mind. I'm in. Let's escape together.""",duvethelipad,pplan,235
+duvethelipad-pplan-76,"""I don't want to join you.""",duvethelipad,pplan,236
+duvethelipad-psus-77,"""Such a shame, we could have done a lot together. You strike me as very...perceptive. Time we part ways, you have a mission right?""",duvethelipad,psus,243
+duvethelipad-psus-78,Goodbye!,duvethelipad,psus,245
+duvethelipad-pnofriend-79,"""I get it, you're not quick to trust others. Very wise. I'll find someone else to help me. Good luck on your mission.""",duvethelipad,pnofriend,252
+duvethelipad-pnofriend-80,Goodbye!,duvethelipad,pnofriend,254

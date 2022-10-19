@@ -1,0 +1,46 @@
+id,text,file,node,lineNumber
+fallen_angel-icstart-0,"""Stop right there.""",fallen_angel,icstart,6
+fallen_angel-icstart-1,"""I'm stopped!""",fallen_angel,icstart,8
+fallen_angel-icstart-2,"""Who the FUCK are you?""",fallen_angel,icstart,9
+fallen_angel-icstart-3,"""...""",fallen_angel,icstart,10
+fallen_angel-icstart-4,"""..."" (heh, this smooth-brain misspelled 'angel')",fallen_angel,icstart,11
+fallen_angel-icstopped-5,"""I'm here on official business. Leave immediately.""",fallen_angel,icstopped,18
+fallen_angel-icstopped-6,"""I'll get going...""",fallen_angel,icstopped,20
+fallen_angel-icstopped-7,"""Official business? What kind?"" :>",fallen_angel,icstopped,21
+fallen_angel-icwhothefuck-8,"""I have no obligation to answer any of your questions.""",fallen_angel,icwhothefuck,28
+fallen_angel-icwhothefuck-9,"""Imma fuck you up if you don't give me some answers.""",fallen_angel,icwhothefuck,30
+fallen_angel-icwhothefuck-10,"""Hey calm down, I just want to talk.""",fallen_angel,icwhothefuck,31
+fallen_angel-icsilent-11,"""Turn around and walk away. Now.""",fallen_angel,icsilent,38
+fallen_angel-icsilent-12,Goodbye!,fallen_angel,icsilent,40
+fallen_angel-ickk-13,"""Smart move.""",fallen_angel,ickk,47
+fallen_angel-ickk-14,Goodbye!,fallen_angel,ickk,49
+fallen_angel-icforwho-15,"""Nope. Nice try, but I'm not telling you anything.""",fallen_angel,icforwho,56
+fallen_angel-icforwho-16,"""I guess I'm wasting my time here.""",fallen_angel,icforwho,58
+fallen_angel-icforwho-17,"""Maybe I can help!""",fallen_angel,icforwho,59
+fallen_angel-icforwho-18,"""I'm not leaving until you tell me who you are.""",fallen_angel,icforwho,60
+fallen_angel-icwastetime-19,"""You are. Leave.""",fallen_angel,icwastetime,67
+fallen_angel-icwastetime-20,Goodbye!,fallen_angel,icwastetime,69
+fallen_angel-iccanhelp-21,"""You don't even know what I'm doing here.""",fallen_angel,iccanhelp,76
+fallen_angel-iccanhelp-22,"""Nope."" owo",fallen_angel,iccanhelp,78
+fallen_angel-iccanhelp-23,"""Good point...""",fallen_angel,iccanhelp,79
+fallen_angel-icwhoyouare-24,"""Cross me at your own peril.""",fallen_angel,icwhoyouare,86
+fallen_angel-icwhoyouare-25,Goodbye!,fallen_angel,icwhoyouare,88
+fallen_angel-icgoodbye-26,Empty Text,fallen_angel,icgoodbye,95
+fallen_angel-icyes-27,"""What are you doing here? Do you work here or something?""",fallen_angel,icyes,102
+fallen_angel-icyes-28,"""Yes, today is my first day.""",fallen_angel,icyes,104
+fallen_angel-icyes-29,"""To be honest I don't know what I'm doing here, I haven't been paying attention.""",fallen_angel,icyes,105
+fallen_angel-icno-30,"""You're being fucking weird. Leave before I make you.""",fallen_angel,icno,112
+fallen_angel-icno-31,Goodbye!,fallen_angel,icno,114
+fallen_angel-icfirstday-32,"""You work here too, hm? You might be useful to me...eventually...but you seem a little inexperienced. How about we make a deal? You turn a blind eye to me for now, maybe I'll get in touch with you later.""",fallen_angel,icfirstday,121
+fallen_angel-icfirstday-33,"""Deal.""",fallen_angel,icfirstday,123
+fallen_angel-icfirstday-34,"""No deal. You're up to something weird and I don't like it."" (╬ Ò﹏Ó)",fallen_angel,icfirstday,124
+fallen_angel-icnoattention-35,"""I doubt you'll be able to help me. Leave now.""",fallen_angel,icnoattention,131
+fallen_angel-icnoattention-36,Goodbye!,fallen_angel,icnoattention,133
+fallen_angel-icdeal-37,"""Then be a good little agent and leave me be for now.""",fallen_angel,icdeal,140
+fallen_angel-icdeal-38,Goodbye!,fallen_angel,icdeal,142
+fallen_angel-icnodeal-39,"""Time for you to go then.""",fallen_angel,icnodeal,149
+fallen_angel-icnodeal-40,Goodbye!,fallen_angel,icnodeal,151
+fallen_angel-icfuckyouup-41,"""Try it.""",fallen_angel,icfuckyouup,158
+fallen_angel-icfuckyouup-42,Goodbye!,fallen_angel,icfuckyouup,160
+fallen_angel-icwannatalk-43,"""We have nothing to talk about. There was a chiplet in the last room. Take it as your reward for finding me here, and begone.""",fallen_angel,icwannatalk,167
+fallen_angel-icwannatalk-44,Goodbye!,fallen_angel,icwannatalk,169

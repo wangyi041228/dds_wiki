@@ -1,0 +1,14 @@
+id,text,file,node,lineNumber
+NoHandSilent-tcstart-0,"""Heya Hun! I decided to stop by, check up on you, pass you some info. Things going ok?""",NoHandSilent,tcstart,6
+NoHandSilent-tcstart-1,"""...""",NoHandSilent,tcstart,8
+NoHandSilent-tcstart-2,"""...""",NoHandSilent,tcstart,9
+NoHandSilent-tcstart-3,"""...""",NoHandSilent,tcstart,10
+NoHandSilent-tcstart-4,"""...""",NoHandSilent,tcstart,11
+NoHandSilent-silent0-5,"""Oh oop! I forgot you're not much of a talker. No worries hun. I just wanted to congratulate you on your success. Taking out that malicious email hub will keep our operations running smoothly.""",NoHandSilent,silent0,18
+NoHandSilent-silent0-6,"""...""",NoHandSilent,silent0,20
+NoHandSilent-silent0-7,"""...""",NoHandSilent,silent0,21
+NoHandSilent-silent0-8,"""...""",NoHandSilent,silent0,22
+NoHandSilent-silent0-9,"""...""",NoHandSilent,silent0,23
+NoHandSilent-silent2-10,"""One more thing, you've been neglecting missions from one of our top handlers, codename: 'The Hand.' These missions were totally optional so you're not in any trouble for avoiding them. Working with The Hand can be difficult, especially for a sweatheart like you. I've told The Hand to stop bothering you. From now on, I'll send you optional missions in addition to critical ones. That's all hun, stay safe in the field!""",NoHandSilent,silent2,30
+NoHandSilent-silent2-11,Goodbye!,NoHandSilent,silent2,32
+NoHandSilent-tcgoodbye-12,Empty Text,NoHandSilent,tcgoodbye,39

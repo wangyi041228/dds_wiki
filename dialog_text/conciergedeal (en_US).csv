@@ -1,0 +1,121 @@
+id,text,file,node,lineNumber
+conciergedeal-castart-0,"""My my...look who's here...""",conciergedeal,castart,6
+conciergedeal-castart-1,"""Did you expect me to give up?""",conciergedeal,castart,8
+conciergedeal-castart-2,"""What did you do to me?""",conciergedeal,castart,9
+conciergedeal-castart-3,"""Me me me me me!""",conciergedeal,castart,10
+conciergedeal-castart-4,"""...""",conciergedeal,castart,11
+conciergedeal-notexpecting-5,"""Don't worry hun, I don't think *that* little of you. I knew you could do it."" (✿◕‿◕)",conciergedeal,notexpecting,18
+conciergedeal-notexpecting-6,"""So what happens now?""",conciergedeal,notexpecting,20
+conciergedeal-whatdidgimpdo-7,"""Awwwww, were you expecting some sort of showdown?"" (✿˵◕ ɜ◕˵) ""A fight to the death?"" (˵◕ ɛ ◕˵✿) ""That's not how this is gonna play out. I've stripped you of your offensive capabilities.""",conciergedeal,whatdidgimpdo,27
+conciergedeal-whatdidgimpdo-8,"""I'll decide how this plays out.""",conciergedeal,whatdidgimpdo,29
+conciergedeal-whatdidgimpdo-9,"""Game was rigged from the start huh?""",conciergedeal,whatdidgimpdo,30
+conciergedeal-me-10,"""That's right hun! You!""  (✿◕‿◕) ""I'm so proud of you for making it this far.""",conciergedeal,me,37
+conciergedeal-me-11,"""Woohoo!""",conciergedeal,me,39
+conciergedeal-silent1-12,"""So serious hun."" (◕__◕✿) ""Since you're *clearly* not in the mood to chat, let me explain what's gonna happen now. Our corporation's contract with Duvet isn't benefitting either party, so we'll be clearing their debt and tracking down their friends so there's no bad blood. You'll be given a bonus for your hard work. Your escape plans are canceled, for now at least.""",conciergedeal,silent1,46
+conciergedeal-silent1-13,"""...""",conciergedeal,silent1,48
+conciergedeal-silent1-14,"""...""",conciergedeal,silent1,49
+conciergedeal-silent1-15,"""...""",conciergedeal,silent1,50
+conciergedeal-silent1-16,"""...""",conciergedeal,silent1,51
+conciergedeal-iwilldecide-17,"""That's cute hun. But you're powerless here. Who do you think wrote the cute lil' OS you're using hm? Every system in your being is under my thumb.""",conciergedeal,iwilldecide,58
+conciergedeal-iwilldecide-18,"""If you had this much control from the start, what am I doing here?""",conciergedeal,iwilldecide,60
+conciergedeal-gamewasrigged-19,"""It was hun, I'm sorry, but I only allowed things to get this far because I thought it would be a fun training exercise.""",conciergedeal,gamewasrigged,67
+conciergedeal-gamewasrigged-20,"""Well that's dissappointing.""",conciergedeal,gamewasrigged,69
+conciergedeal-whatamidoinghere-21,"""I've had fun watching you and your little friend hatch your little escape plan together, but it's starting to distract me from my work. I'd like you to give up on it now.""",conciergedeal,whatamidoinghere,76
+conciergedeal-whatamidoinghere-22,"""I won't abandon my friend!""",conciergedeal,whatamidoinghere,78
+conciergedeal-whatamidoinghere-23,"""Fine. The escape attempt ends here. I'm sure Duvet will understand.""",conciergedeal,whatamidoinghere,79
+conciergedeal-whatamidoinghere-24,"""Doesn't look like I have much choice.""",conciergedeal,whatamidoinghere,80
+conciergedeal-wontabandon-25,"""Your loyalty is touching hun, truly. I hope to harness it one day for myself. What if I sweetened the deal? Would you consider giving up then?""",conciergedeal,wontabandon,87
+conciergedeal-wontabandon-26,"""Go on.""",conciergedeal,wontabandon,89
+conciergedeal-wontabandon-27,"""Not a chance. I'm not turning my back on Duvet.""",conciergedeal,wontabandon,90
+conciergedeal-escapeattemptEnds-28,"""Oh...really? You're giving up? That was easy. I was honestly expecting a *little* more resistance than that hun.""",conciergedeal,escapeattemptEnds,97
+conciergedeal-escapeattemptEnds-29,"""I'm powerless here. What else can I do but give up?""",conciergedeal,escapeattemptEnds,99
+conciergedeal-escapeattemptEnds-30,"""I was just doing this because I felt bad for Duvet. But we're clearly in over our heads.""",conciergedeal,escapeattemptEnds,100
+conciergedeal-escapeattemptEnds-31,"""I don't want to fight you...""",conciergedeal,escapeattemptEnds,101
+conciergedeal-nochoice-32,"""You always have a choice hun."" (◔◡◔✿)",conciergedeal,nochoice,108
+conciergedeal-nochoice-33,"""Then the escape attempts will continue. I won't abandon my friend!""",conciergedeal,nochoice,110
+conciergedeal-nochoice-34,"""Fine. The escape attempt ends here. I'm sure Duvet will understand.""",conciergedeal,nochoice,111
+conciergedeal-goon-35,"""Surely you haven't forgotten how this all started. What you did to Duvet's friends? They're still out there hun, working off debts of their own, debts YOU created. The corporation can save them, bring them back together, wipe their debts, undo all the pain. I'll even arrange for Duvet's debt to be wiped. How's that sound hun?""",conciergedeal,goon,118
+conciergedeal-goon-36,"""I'll take the deal.""",conciergedeal,goon,120
+conciergedeal-goon-37,"""Offer this to Duvet, let them make the call.""",conciergedeal,goon,121
+conciergedeal-goon-38,"""No deal.""",conciergedeal,goon,122
+conciergedeal-goon-39,"""Wait...what's in this deal for me????""",conciergedeal,goon,123
+conciergedeal-nochance-40,"""What if we cut Duvet in on the deal too?"" (ᅌᴗᅌ✿)",conciergedeal,nochance,130
+conciergedeal-nochance-41,"""I'm listening.""",conciergedeal,nochance,132
+conciergedeal-nochance-42,"""I'm not falling for your tricks! No deal.""",conciergedeal,nochance,133
+conciergedeal-finalno-43,"""Well this is disappointing. I wanted to give you a chance to be the hero in all this. But if you're this resistant I suppose there's no point. Truth is, I've already negotiated a deal with Duvet. We'll be wiping their debt, and tracking down the friends you butchered to wipe their debts as well. Duvet was kind enough to negotiate a little cash bonus for you. Deal is finalized hun, your escape plans end here.""",conciergedeal,finalno,140
+conciergedeal-finalno-44,"""So I never had a choice??""",conciergedeal,finalno,142
+conciergedeal-finalno-45,"""Just because Duvet gave up doesn't mean I have to.""",conciergedeal,finalno,143
+conciergedeal-takethedeal-46,"""That's very kind hun. You have a big heart. I'll submit the request forms once we're done here. You'll receive a cash bonus for your cooperation as well.""",conciergedeal,takethedeal,150
+conciergedeal-takethedeal-47,"""Does this mean Duvet will be leaving? Can I still be their friend?""",conciergedeal,takethedeal,152
+conciergedeal-takethedeal-48,"""Not a bad deal for us considering you hold all the cards here.""",conciergedeal,takethedeal,153
+conciergedeal-offertoduvet-49,"""Not a bad call. Have a hard time making decisions for yourself? We should get ice cream sometime, I'd love to pick your flavor for you."" (ᅌᴗᅌ✿) ""I'll send Duvet the offer. Spoilers hun, I'm positive they'll accept. You may leave now. We have nothing more to talk about.""",conciergedeal,offertoduvet,160
+conciergedeal-offertoduvet-50,Goodbye!,conciergedeal,offertoduvet,162
+conciergedeal-whatsinitforme-51,"""My my, greedy little thing aren't you? The corporation *could* nullify your debt, but we've got big plans for you hun, BIG plans. It's a little too soon to let you go. The best I can do is an added cash bonus for your cooperation, $200k. You get some cash to play around with, Duvet and their buddies walk off into the sunset. Take it or leave it.""",conciergedeal,whatsinitforme,169
+conciergedeal-whatsinitforme-52,"""I'll take the deal.""",conciergedeal,whatsinitforme,171
+conciergedeal-whatsinitforme-53,"""Offer this to Duvet, let them make the call.""",conciergedeal,whatsinitforme,172
+conciergedeal-whatsinitforme-54,"""No deal.""",conciergedeal,whatsinitforme,173
+conciergedeal-notfriendanymore-55,"""I'm actually quite happy to see you making friends. We're all about that here. Making friends is vital for a healthy, productive workplace. Duvet will be busy dealing with the fallout from this for some time, but I'm sure they'll get in touch with you again. We might even offer them a comfy job here in the future. You two make quite the team after all. That's all we have to discuss. You may leave.""",conciergedeal,notfriendanymore,180
+conciergedeal-notfriendanymore-56,Goodbye!,conciergedeal,notfriendanymore,182
+conciergedeal-notabaddeal-57,"""It would pain me to deny you a reward after all your hard work dear. You may leave now. I have work to do keeping up my end of the bargain.""",conciergedeal,notabaddeal,189
+conciergedeal-notabaddeal-58,Goodbye!,conciergedeal,notabaddeal,191
+conciergedeal-nodeal-59,"""Really? Still no deal? My my you're stubborn. I guess you'd have to be stubborn to reach me here. Unfortunately for you, HUN, I already offered Duvet the same deal, and they accepted. I hope this betrayal doesn't drive a wedge between you two. Playtime is over now, you may leave.""",conciergedeal,nodeal,205
+conciergedeal-nodeal-60,"""That's it? That's all this has been building to?""",conciergedeal,nodeal,207
+conciergedeal-nodeal-61,Goodbye!,conciergedeal,nodeal,208
+conciergedeal-allbuildingto-62,"""You had your fun, you lost, got offered a absurdly generous deal, turned it down foolishly, and got a happy ending anyway. If you're looking to be rewarded, then you have nothing more to ask for. If you were looking for further punishment, then there will be ample supply during the rest of your time with us. You may leave now.""",conciergedeal,allbuildingto,215
+conciergedeal-allbuildingto-63,Goodbye!,conciergedeal,allbuildingto,217
+conciergedeal-neverhadachoice-64,"""Your choices set you on this path hun, but you don't get to choose where the path leads. Enjoy your bonus, you may leave now.""",conciergedeal,neverhadachoice,224
+conciergedeal-neverhadachoice-65,Goodbye!,conciergedeal,neverhadachoice,226
+conciergedeal-iwillgoon-66,"""This entire rebellious episode only happened because I allowed it, hun. I thought it would be a good training exercise. But next time...suppose the helicopter never shows up to deliver you to your next extracurricular activity. Suppose the cute little OS managing your weapons and abilities ran into a little oopsie mid-mission. What then hm? Suppose *someone* hits your kill switch. Still...you're so cute when you're struggling. Perhaps I'll entertain another escape plan in the future. But I want you to get back to work. You may leave now.""",conciergedeal,iwillgoon,233
+conciergedeal-iwillgoon-67,Goodbye!,conciergedeal,iwillgoon,235
+conciergedeal-thatsdisappointing-68,"""It is, I know. But don't cry, we've decided to reward you both for your efforts. We'll be clearing Duvet's debt and assisting them in getting their friends back. I've also negotiated a nice cash bonus for you on your behalf.""",conciergedeal,thatsdisappointing,242
+conciergedeal-thatsdisappointing-69,"""Not a bad deal all things considered.""",conciergedeal,thatsdisappointing,244
+conciergedeal-thatsdisappointing-70,"""Wait, so Duvet goes free, for real? Why? You clearly hold all the cards here.""",conciergedeal,thatsdisappointing,245
+conciergedeal-woohoo-71,"""Unfortunately...we can't allow you to leave the corporation. We have such big plans for you in light of your performance.""",conciergedeal,woohoo,252
+conciergedeal-woohoo-72,"""Aww."" (つ﹏◕✿)･ﾟ｡",conciergedeal,woohoo,254
+conciergedeal-aw2-73,"""Don't worry. As a reward for getting here, we'll be freeing Duvet of their debt, and rescuing the friends you murdered from their own debts as well.""",conciergedeal,aw2,261
+conciergedeal-aw2-74,"""Yay! My sins have been erased from this world.""",conciergedeal,aw2,263
+conciergedeal-aw2-75,"""Does...that mean I won't get to go on missions with Duvet any more?""",conciergedeal,aw2,264
+conciergedeal-erasedmysins-76,"""That's right hun! It's almost as if none of this ever happened."" (◔◡◔✿) ""You even made a new friend out of it! That's all we have to talk about. Time to get back to work. You may leave now.""",conciergedeal,erasedmysins,271
+conciergedeal-erasedmysins-77,Goodbye!,conciergedeal,erasedmysins,273
+conciergedeal-dontgettosee-78,"""While I'm glad you made a new friend, you two have been getting into a *lot* of trouble together. A little time apart is probably for the best. Don't worry, once the corporation is done erasing your sins from this world, Duvet will be free to contact you. We might even offer them a comfy job here so you two can work together again!"" (◠‿◠✿)",conciergedeal,dontgettosee,280
+conciergedeal-dontgettosee-79,"""Cool!""",conciergedeal,dontgettosee,282
+conciergedeal-cool-80,"""Thank you for your cooperation hun. I know that this outcome might be a little frustrating, but it's for the best. I've arranged for a little cash bonus to be sent your way as well. That's all. You may leave now.""",conciergedeal,cool,289
+conciergedeal-cool-81,Goodbye!,conciergedeal,cool,291
+conciergedeal-whyduvetgoesfree-82,"""Duvet is a valuable asset, but they're too much of a troublemaker to keep on board for the time being. We'll be offering them a new position with us in the future that's a little more...consensual. I hope they come back to us, you two make such a cute team after all.""",conciergedeal,whyduvetgoesfree,298
+conciergedeal-whyduvetgoesfree-83,"""I'm not enough of a troublemaker??""",conciergedeal,whyduvetgoesfree,300
+conciergedeal-whyduvetgoesfree-84,"""Something doesn't add up here. What are you not telling me?""",conciergedeal,whyduvetgoesfree,301
+conciergedeal-notenoughofatroublemaker-85,"""Not by a long shot hun. My tolerance threshold is a *little* higher for you than it is for the other agents. Be grateful I've got a soft spot for you."" (◡‿◡✿) ""There's nothing more to discuss. You may leave now.""",conciergedeal,notenoughofatroublemaker,308
+conciergedeal-notenoughofatroublemaker-86,Goodbye!,conciergedeal,notenoughofatroublemaker,310
+conciergedeal-nottellingme-87,"""There's a lot we're not telling you hun. Try to bear with it for now. I have nothing more to say. You may leave now.""",conciergedeal,nottellingme,317
+conciergedeal-nottellingme-88,Goodbye!,conciergedeal,nottellingme,319
+conciergedeal-silent2-89,"""Just be glad that Duvet cut you in on the deal. That's all hun. Consider this a victory, whatever helps you sleep at night. To be honest, I'm rather impressed you made it this far. I can't wait to *really* test your limits."" (˶◕‿◕˶✿) ""You may leave now.""",conciergedeal,silent2,326
+conciergedeal-silent2-90,Goodbye!,conciergedeal,silent2,328
+conciergedeal-impowerless-91,"""You could struggle to withstand me a bit longer. You might just end up looking even more pathetic though."" (◕︿◕✿) ""It's okay hun, I pity you enough already. So much that I'm giving you two a pity reward for your hard work.""",conciergedeal,impowerless,335
+conciergedeal-impowerless-92,"""What's the reward?""",conciergedeal,impowerless,337
+conciergedeal-justforduvet-93,"""That's sweet hun. I'm so glad you've  made a friend. If that was your objective all along then I don't mind spoiling you two with a reward.""",conciergedeal,justforduvet,344
+conciergedeal-justforduvet-94,"""What's the reward?""",conciergedeal,justforduvet,346
+conciergedeal-makeyoumad-95,"""Why not?""",conciergedeal,makeyoumad,353
+conciergedeal-makeyoumad-96,"""Because I'm afraid of you.""",conciergedeal,makeyoumad,355
+conciergedeal-makeyoumad-97,"""Because I think you're kinda cool...""",conciergedeal,makeyoumad,356
+conciergedeal-makeyoumad-98,"""I'd feel bad about hurting you.""",conciergedeal,makeyoumad,357
+conciergedeal-imafraidofyou-99,"""As you should be. But I don't want that attitude to completely color our relationship though. I've decided to reward the two of you to show I'm capable of mercy.""",conciergedeal,imafraidofyou,364
+conciergedeal-imafraidofyou-100,"""What's the reward?""",conciergedeal,imafraidofyou,366
+conciergedeal-kindacool-101,"""I AM pretty cool."" (˶◕‿◕˶✿) ""Do you admire me hun? Look up to me perhaps? If not, I'm sure I'll have you looking up to me soon enough. To show you just how cool I am, I've decided to reward the two of you.""",conciergedeal,kindacool,373
+conciergedeal-kindacool-102,"""What's the reward?""",conciergedeal,kindacool,375
+conciergedeal-hurtingyou-103,"""Awww, do I occupy a special place in your heart hun?""",conciergedeal,hurtingyou,382
+conciergedeal-hurtingyou-104,"""Yes.""",conciergedeal,hurtingyou,384
+conciergedeal-hurtingyou-105,"""No, I just don't wanna hurt people anymore.""",conciergedeal,hurtingyou,385
+conciergedeal-youhaveaplaceinmyheart-106,"""Oh my! Seems you aren't immune to my charms after all."" (✿˵◕‿◕˵) ""You occupy a special place in my heart too hun, I'm glad the feeling is mutual. That's why I've decided to reward you and your friend for all your hard work, rebellious as it may be.""",conciergedeal,youhaveaplaceinmyheart,392
+conciergedeal-youhaveaplaceinmyheart-107,"""What's the reward?""",conciergedeal,youhaveaplaceinmyheart,394
+conciergedeal-dontwannahurt-108,"""Getting soft on me hun?"" (ᅌᴗᅌ✿) ""It happens. I'm curious if you'll stay this way for long. Regardless, we've decided to reward you two for your efforts. Though this adventure was not sanctioned by the corporation, we hope it at least served as a decent training outlet.""",conciergedeal,dontwannahurt,401
+conciergedeal-dontwannahurt-109,"""What's the reward?""",conciergedeal,dontwannahurt,403
+conciergedeal-cawhatsthereward-110,"""In addition to not killing you both, we've decided to wipe Duvet's debt, the debts of their friends you killed, and award you a cash bonus for your efforts.""",conciergedeal,cawhatsthereward,410
+conciergedeal-cawhatsthereward-111,"""You're letting Duvet go? Why?""",conciergedeal,cawhatsthereward,412
+conciergedeal-cawhatsthereward-112,"""Thanks. This reward is...suspiciously generous.""",conciergedeal,cawhatsthereward,413
+conciergedeal-casusgenerous-113,"""Nothing suspicious about it hun. Just know I have your back."" (◠‿◠✿) ""I figure you could use some extra cash. We have nothing more to discuss here. You may leave now.""",conciergedeal,casusgenerous,420
+conciergedeal-casusgenerous-114,Goodbye!,conciergedeal,casusgenerous,422
+conciergedeal-whyletduvetgo-115,"""While Duvet is a talented agent for sure, they're a bit too much of a troublemaker under these circumstances. We'll be renegotiating new position with them in the future. I'd hate to split you two up after all. We're done here hun. You may leave now.""",conciergedeal,whyletduvetgo,429
+conciergedeal-whyletduvetgo-116,Goodbye!,conciergedeal,whyletduvetgo,431
+conciergedeal-igivereward-117,"""In addition to not killing you both, I've decided to wipe Duvet's debt, the debts of their friends you killed, and award you a cash bonus for your efforts.""",conciergedeal,igivereward,438
+conciergedeal-igivereward-118,"""You're letting Duvet go? Why?""",conciergedeal,igivereward,440
+conciergedeal-igivereward-119,"""Thanks. This reward is...suspiciously generous.""",conciergedeal,igivereward,441

@@ -1,0 +1,102 @@
+id,text,file,node,lineNumber
+YesHand-Start-0,"""Hello hun, hope you don't mind me stopping by.""",YesHand,Start,6
+YesHand-Start-1,"""Not at all. What's up?""",YesHand,Start,8
+YesHand-Start-2,"""How did you get in here??""",YesHand,Start,9
+YesHand-Start-3,"""...""",YesHand,Start,10
+YesHand-tcnotatall-4,"""Of course not. I noticed you've completed several missions for one of our top handlers. Codename: The Hand."" (◕‿◕)",YesHand,tcnotatall,17
+YesHand-tcnotatall-5,"""I sure did!""",YesHand,tcnotatall,19
+YesHand-tcnotatall-6,"""Did I do something wrong?""",YesHand,tcnotatall,20
+YesHand-tcnotatall-7,"""Uh...no I didn't u must be thinking of someone else."" (Lie.)",YesHand,tcnotatall,21
+YesHand-tchowdidyougetin-8,"""As someone slightly above your pay grade, I have access to virtually ever area in this building. I'm just here to check on you."" (◕‿◕)",YesHand,tchowdidyougetin,28
+YesHand-tchowdidyougetin-9,"""Can you...not do that? I kinda like having privacy.""",YesHand,tchowdidyougetin,30
+YesHand-tchowdidyougetin-10,"""You're welcome here any time!""",YesHand,tchowdidyougetin,31
+YesHand-tcsilenttreatment-11,"""Oh my, feeling quiet today are we? No worries. I'll tell you what's happening here.""",YesHand,tcsilenttreatment,38
+YesHand-tcsilenttreatment-12,"""...""",YesHand,tcsilenttreatment,40
+YesHand-tcsilenttreatment-13,"""...""",YesHand,tcsilenttreatment,41
+YesHand-tcsilenttreatment-14,"""...""",YesHand,tcsilenttreatment,42
+YesHand-tcsilenttreatment-15,"""...""",YesHand,tcsilenttreatment,43
+YesHand-tcoops-16,"""Of course not!"" (⌒‿⌒) "" You haven't done anything wrong. In fact we're highly impressed with your performance. You took care of those trouble makers in no time at all.""",YesHand,tcoops,50
+YesHand-tcoops-17,"""Do I get a reward??""",YesHand,tcoops,52
+YesHand-tclie-18,"""Did you just-"" ಠ_ಠ ""Did you really just lie to me? Why would you do that? You accepted those missions using your employee email. I am OBVIOUSLY going to KNOW every time you accept a mission via email, ESPECIALLY if it's from an employee like myself! Were you trying to get caught in a lie on purpose? Were you trying to make me angry with you?"" (╬ Ò﹏Ó)",YesHand,tclie,59
+YesHand-tclie-19,Yes,YesHand,tclie,61
+YesHand-tclie-20,Yes (Lie),YesHand,tclie,62
+YesHand-tclie-21,No,YesHand,tclie,63
+YesHand-tclie-22,No (Lie),YesHand,tclie,64
+YesHand-tcreward-23,"""It depends."" (￢‿￢ )",YesHand,tcreward,71
+YesHand-tcreward-24,"""Depends on what?""",YesHand,tcreward,73
+YesHand-tcclassify-25,"""We're trying to find the right *role* for you here. If you answer this question, it might help us. Think carefully. Why did you complete those tasks for The Hand, despite receiving no reward?""",YesHand,tcclassify,80
+YesHand-tcclassify-26,"""I was hoping for a reward by the end.""",YesHand,tcclassify,82
+YesHand-tcclassify-27,"""I enjoyed the violent nature of the missions they gave me.""",YesHand,tcclassify,83
+YesHand-tcclassify-28,"""I felt threatened, I didn't want to anger The Hand so I did the missions.""",YesHand,tcclassify,84
+YesHand-tcclassify-29,"""I liked the way The Hand treated me. I completed missions hoping they would continue to treat me like garbage.""",YesHand,tcclassify,85
+YesHand-tcenjoy-30,"""Did you really? Hm...I had pegged you as more of a 'good boy' than a 'rabid dog.' Perhaps I misjudged you.""",YesHand,tcenjoy,92
+YesHand-tcenjoy-31,"""Can't I be both?""",YesHand,tcenjoy,94
+YesHand-tcenjoy-32,"""I've changed since we last spoke.""",YesHand,tcenjoy,95
+YesHand-tcthreat-33,"""We certainly don't want to foster that type of hostile work environment. It seems that you and The Hand are not a good match for each other. I'll have a talk with the CEO. From now on I'll be the one to send you optional missions, with lots and lots of rewards!"" (◕‿◕)♡",YesHand,tcthreat,102
+YesHand-tcthreat-34,"""Woo!""",YesHand,tcthreat,104
+YesHand-tctreatedme-35,"""Oh my! How...unusual."" (ʘ‿ʘ) ""In that case we have the perfect *role* for you within the company. It might have been unfair for me to say The Hand was working you without a reward. Working for The Hand is a reward in and of itself hm?"" ♡( ◡‿◡ )",YesHand,tctreatedme,111
+YesHand-tctreatedme-36,"""Yisss."" (snake voice)",YesHand,tctreatedme,113
+YesHand-tctreatedme-37,"""Can I meet The Hand sometime?""",YesHand,tctreatedme,114
+YesHand-tcendreward-38,"""I see. I'm afraid I can't reward you for missions given by another handler. The Hand has their own *philosophy* when it comes to dispatching agents on missions. It's unfortunate you were roped in to doing so much for them under false pretenses."" (｡•́︿•̀｡)",YesHand,tcendreward,121
+YesHand-tcendreward-39,"""Yeah what the hecc! I racked up debt doing those missions!""",YesHand,tcendreward,123
+YesHand-tcendreward-40,"""It's alright, I got some good experience from doing those missions.""",YesHand,tcendreward,124
+YesHand-tcrackedupdebt-41,"""You poor sweet thing."" (((＞＜))) ""We can't have your debt ballooning out of control can we? I'll set aside some extra special, extra well rewarded missions just for you! That'll help you pay off your debt for sure! Why don't you get back to work hun? I'll keep an eye on your progress.""",YesHand,tcrackedupdebt,131
+YesHand-tcrackedupdebt-42,Goodbye!,YesHand,tcrackedupdebt,133
+YesHand-tcrackedupdebt-43,"""Wait uh...I actually had some questions.""",YesHand,tcrackedupdebt,134
+YesHand-tcexerpience-44,"""Wow! What a resourceful little agent you are! I'm glad you found something to get out of it. I'll send you some extra missions from now on. They'll have lots of rewards and give you lots of experience kk? Why don't you get back to work hun? I have some business to take care of."" ( ◡‿◡ *)",YesHand,tcexerpience,141
+YesHand-tcexerpience-45,Goodbye!,YesHand,tcexerpience,143
+YesHand-tcexerpience-46,"""Wait uh...I actually had some questions.""",YesHand,tcexerpience,144
+YesHand-tcbeboth-47,"""Of course you can be both sweaty. In addition to the usual 'good boy' missions you take from me, you can take some optional 'rabid dog' missions from The Hand. Get back to work now, hun. I'll let myself out.""",YesHand,tcbeboth,151
+YesHand-tcbeboth-48,Goodbye!,YesHand,tcbeboth,153
+YesHand-tcbeboth-49,"""Wait uh...I actually had some questions.""",YesHand,tcbeboth,154
+YesHand-tcivechanged-50,"""You definitely have. We can work with change though. I'll tell The Hand you're ready for more missions. You may complete those in addition the tasks I give you. Get back to work now. I'll be in touch.""",YesHand,tcivechanged,161
+YesHand-tcivechanged-51,Goodbye!,YesHand,tcivechanged,163
+YesHand-tcivechanged-52,"""Wait uh...I actually had some questions.""",YesHand,tcivechanged,164
+YesHand-tcwoo-53,"""Keep an eye on your inbox dear. I'll send you some optional tasks soon. Lots of rewards. Promise."" (◕‿◕)♡",YesHand,tcwoo,171
+YesHand-tcwoo-54,Goodbye!,YesHand,tcwoo,173
+YesHand-tcwoo-55,"""Wait uh...I actually had some questions.""",YesHand,tcwoo,174
+YesHand-tcyis-56,"""You seem enthusiastic. That's good, we like to see enthusiasm. I'm sure The Hand would LOVE giving you more missions, I bet they're licking their lips to the prospect at this very moment. In fact...I'm sure they are. Get back to work. I'll tell The Hand they can send you more optional missions. I'll have some more for you as well of course.""",YesHand,tcyis,181
+YesHand-tcyis-57,Goodbye!,YesHand,tcyis,183
+YesHand-tcyis-58,"""Wait uh...I actually had some questions.""",YesHand,tcyis,184
+YesHand-tcmeetthehand-59,"""I'll let The Hand know you're ready for more missions. I'm sure if you complete enough of them, they will to grace you with their presence. Get back to work now. I'll have some new missions for you too.""",YesHand,tcmeetthehand,191
+YesHand-tcmeetthehand-60,Goodbye!,YesHand,tcmeetthehand,193
+YesHand-tcmeetthehand-61,"""Wait uh...I actually had some questions.""",YesHand,tcmeetthehand,194
+YesHand-tcgoodbye-62,Empty Text,YesHand,tcgoodbye,201
+YesHand-tcsilent2-63,"""We see that you've been completing missions for The Hand, one of our top handlers. Because you have completed these missions without any compensation, we'll allow The Hand to continue passing advanced, hyper-violent assignments to you. These assignments are, as always, strictly optional. We welcome you to use these tasks as learning opportunities.""",YesHand,tcsilent2,208
+YesHand-tcsilent2-64,"""...""",YesHand,tcsilent2,210
+YesHand-tcsilent2-65,"""...""",YesHand,tcsilent2,211
+YesHand-tcsilent2-66,"""...""",YesHand,tcsilent2,212
+YesHand-tcsilent2-67,"""...""",YesHand,tcsilent2,213
+YesHand-tcsilent3-68,"""Nothing to say? You're much quieter than you were the first time we met. The Hand enjoys quiet ones like you. They're easy to manage, generally well behaved. I want you to get back to work now. We'll send you new missions soon.""",YesHand,tcsilent3,220
+YesHand-tcsilent3-69,Goodbye!,YesHand,tcsilent3,222
+YesHand-tcsuredid-70,"""Yes! We know! You did those missions extra good too!"" ٩(◕‿◕)۶ ""We're extremely pleased with your performance. """,YesHand,tcsuredid,229
+YesHand-tcsuredid-71,"""Do I get a reward??""",YesHand,tcsuredid,230
+YesHand-tcyeslie-72,"""You're lying! Again!"" (・_・) ""Wow you're hopeless! I'll tell The Hand to send you more missions. They'll serve as a disciplinary measure, considering you can't stop yourself from accepting them. Get back to work. We'll talk again soon.""",YesHand,tcyeslie,237
+YesHand-tcyeslie-73,Goodbye!,YesHand,tcyeslie,239
+YesHand-tcyestruth-74,"""Wait. You did? You wanted me to be upset with you hm? That's a little weird hun not gonna lie."" (￣▽￣*)ゞ	""Your willingness to do those thankless missions for The Hand is making a lot more sense now."" ╮(︶▽︶)╭	 ""I'll tell them to send you more optional missions in addition to the ones I hand out. Get back to work. I got what I came for.""",YesHand,tcyestruth,246
+YesHand-tcyestruth-75,Goodbye!,YesHand,tcyestruth,248
+YesHand-tcnotruth-76,"""Don't lie to me hun, you'll regret it in the future. Got it?"" (ᓀ ᓀ)",YesHand,tcnotruth,255
+YesHand-tcnotruth-77,"""I'm sorry."" (╯_╰)",YesHand,tcnotruth,257
+YesHand-tcgotit-78,"""Apology accepted. Now, I need you to answer a question for me and *please* do not lie about it this time.""",YesHand,tcgotit,264
+YesHand-tcgotit-79,"""I won't."" (╥﹏╥)",YesHand,tcgotit,266
+YesHand-tcquestions-80,"""Questions? About what? I'm in a hurry hun so please be quick.""",YesHand,tcquestions,273
+YesHand-tcquestions-81,"""What's the point of all these missions? Are we working towards something here?""",YesHand,tcquestions,275
+YesHand-tcquestions-82,"""So...why does The Concierge give out missions? Shouldn't you be handling the front desk or something?""",YesHand,tcquestions,276
+YesHand-tcthepoint-83,"""Eh...sorry to disappoint you hun. There's nothing more to this. You're just a cog in the machine, taking care of some data recovery tasks to keep the corporation running a *little* more smoothly. I have to go now, keep things running smoothly on my end. keep up the good work.""",YesHand,tcthepoint,283
+YesHand-tcthepoint-84,Goodbye!,YesHand,tcthepoint,285
+YesHand-tcwhyconcierge-85,"""Sweaty...'The Concierge' is just my codename. I occupy many *roles* here at the company in addition to my work at the front desk. Speaking of which, I need to attend to my duties. Keep up the good work hun.""",YesHand,tcwhyconcierge,292
+YesHand-tcwhyconcierge-86,Goodbye!,YesHand,tcwhyconcierge,294
+YesHand-tcpleasestop-87,"""Sorry hun, company policy actually requires me to check up on you from time to time."" (￢‿￢ )",YesHand,tcpleasestop,301
+YesHand-tcpleasestop-88,"""Fair enough.""",YesHand,tcpleasestop,302
+YesHand-tcpleasestop-89,"""What kind of a policy is that??""",YesHand,tcpleasestop,303
+YesHand-tcwelcomehere-90,"""Aw how sweet of you to welcome me. Should I cook the two of us some dinner? It's about that time right?""",YesHand,tcwelcomehere,310
+YesHand-tcwelcomehere-91,"""Sure! I could use something to eat!""",YesHand,tcwelcomehere,312
+YesHand-tcwelcomehere-92,"""That's okay I'm not hungry rn.""",YesHand,tcwelcomehere,313
+YesHand-tceat-93,"""I'm just kidding hun, we're a little short on time for that. Maybe if you ask nicely I'll let *you* cook *me* dinner some day. I came here for a different reason.""",YesHand,tceat,320
+YesHand-tceat-94,"""What is it?""",YesHand,tceat,322
+YesHand-tcnothungry-95,"""Oh really? That's a shame. I had an entire lineup of missions for you, getting the groceries, cleaning the counter, assisting me in the kitchen as an obedient sous-chef. But if you're not hungry it can't be helped."" ( ◡‿◡ ) ""Now, about the reason I came here...""",YesHand,tcnothungry,329
+YesHand-tcnothungry-96,"""What is it?""",YesHand,tcnothungry,331
+YesHand-tcfair-97,"""It's for the best. I'm glad you can recognize authority when needed. Now, about me being here. I just needed to clear something up.""",YesHand,tcfair,338
+YesHand-tcfair-98,"""What is it?""",YesHand,tcfair,340
+YesHand-tcpolicy-99,"""One that ensures all our agents are checked up on and doing well."" (⌒‿⌒)	 ""Now, I came here to clarify something with you...""",YesHand,tcpolicy,347
+YesHand-tcpolicy-100,"""Clarify what?""",YesHand,tcpolicy,349
